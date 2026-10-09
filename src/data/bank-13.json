@@ -1,0 +1,58 @@
+[
+{"id":"t1-01","text":"Name an animal whose name has exactly 4 letters","category":"twist","tiers":{
+"seafoam":["lion","bear","wolf","duck","frog","deer"],
+"bait":["goat","seal","crab","hawk","swan"],
+"shoal":["toad","mole","moth","lynx","boar","fish","bull","crow","slug","wasp","worm"],
+"rare":["ibis","kiwi","newt","orca","puma","carp","clam","dove","hare","loon"],
+"deep":["kudu","oryx","pika","rhea","rook","vole","wren","tern","gull","mink"],
+"leviathan":["zebu","gaur","skua","ibex","mako","hake","dodo"]}},
+{"id":"t1-02","text":"Name a word ending in -ology","category":"twist","tiers":{
+"seafoam":["biology","psychology","geology","zoology","ecology","technology"],
+"bait":["sociology","theology","anthropology","archaeology","mythology"],
+"shoal":["cardiology","neurology","oncology","radiology","pathology","astrology","criminology","dermatology","apology","anthology","tautology"],
+"rare":["urology","immunology","ideology","meteorology","pharmacology","physiology","cosmology","toxicology","virology","terminology"],
+"deep":["etymology","ornithology","entomology","gerontology","hematology","epidemiology","epistemology","ontology","cytology","histology"],
+"leviathan":["vexillology","campanology","speleology","ichthyology","herpetology","oenology","trichology","phrenology"]}},
+{"id":"t1-03","text":"Name a city or town whose name ends in -ton","category":"twist","tiers":{
+"seafoam":["Boston","Houston","Washington","Charleston","Wellington","Brighton"],
+"bait":["Kingston","Princeton","Hamilton","Edmonton","Arlington"],
+"shoal":["Dayton","Lexington","Burlington","Trenton","Newton","Clinton","Preston","Bolton","Canton","Easton","Milton","Hampton"],
+"rare":["Southampton","Northampton","Huntington","Luton","Taunton","Warrington","Darlington","Brampton","Stockton","Compton"],
+"deep":["Evanston","Galveston","Appleton","Fullerton","Middleton","Livingston","Wilmington","Farmington","Covington","Kensington"],
+"leviathan":["Workington","Orpington","Skipton","Bennington","Torrington","Worthington","Uppington"]}},
+{"id":"t1-04","text":"Name a food that starts with C","category":"twist","tiers":{
+"seafoam":["cheese","chocolate","chicken","cake","cookie","carrot"],
+"bait":["cereal","candy","corn","cheeseburger","chips"],
+"shoal":["cheesecake","croissant","curry","coleslaw","cupcake","crackers","cauliflower","celery","cabbage","caramel","cucumber","cranberry"],
+"rare":["chowder","ceviche","couscous","cannoli","calzone","crepe","cashew","clementine","cantaloupe","chorizo"],
+"deep":["croquette","chutney","casserole","cassava","chard","chicory","clafoutis","challah","ciabatta","cacciatore"],
+"leviathan":["cassoulet","chilaquiles","chimichurri","cullen skink","cacio e pepe","chana masala","cervelat"]}},
+{"id":"t1-05","text":"Name a dog breed that starts with B","category":"twist","tiers":{
+"seafoam":["beagle","boxer","bulldog","border collie","basset hound","bloodhound"],
+"bait":["bichon frise","bernese mountain dog","boston terrier","bull terrier","bullmastiff"],
+"shoal":["borzoi","basenji","brittany","bearded collie","belgian malinois","bouvier des flandres","brussels griffon","black russian terrier","bernedoodle","bordoodle","belgian sheepdog","braque d'auvergne"],
+"rare":["briard","barbet","bergamasco","bolognese","boerboel","boykin spaniel","bedlington terrier","border terrier","bluetick coonhound","black and tan coonhound"],
+"deep":["beauceron","bracco italiano","berger picard","belgian tervuren","belgian laekenois","biewer terrier","bavarian mountain hound","basset fauve de bretagne","braque du bourbonnais","brazilian terrier"],
+"leviathan":["bakharwal dog","banjara hound","bully kutta","blue lacy","black mouth cur","bull arab","bohemian shepherd"]}},
+{"id":"t1-06","text":"Name a bird that starts with C","category":"twist","tiers":{
+"seafoam":["crow","cardinal","canary","chicken","cockatoo","crane"],
+"bait":["condor","cuckoo","cormorant","chickadee","cockatiel"],
+"shoal":["coot","curlew","chaffinch","cassowary","catbird","cowbird","Canada goose","collared dove"],
+"rare":["crossbill","creeper","crake","cotinga","canvasback","Carolina wren","cedar waxwing","Cooper's hawk","chiffchaff","corncrake"],
+"deep":["caracara","capercaillie","chukar","chough","courser","cahow","cinereous vulture","cattle egret","common tern","chimney swift","cliff swallow","common loon","common raven"],
+"leviathan":["cirl bunting","cetti's warbler","crimson chat","cabot's tern","cerulean warbler","curve-billed thrasher","cinnamon teal"]}},
+{"id":"t1-07","text":"Name a US city that starts with S","category":"twist","tiers":{
+"seafoam":["Seattle","San Francisco","San Diego","San Antonio","San Jose","Sacramento"],
+"bait":["Salt Lake City","Savannah","St. Louis|Saint Louis","Santa Fe","Scottsdale"],
+"shoal":["St. Paul|Saint Paul","Spokane","Springfield","Syracuse","Santa Barbara","Santa Monica","Sioux Falls","Sarasota","Santa Ana","San Bernardino","Sandy Springs","Santa Clarita"],
+"rare":["South Bend","Shreveport","Salem","Salinas","Stamford","Stockton","Sunnyvale","Santa Clara","Santa Rosa","Santa Cruz"],
+"deep":["Scranton","Sedona","Sausalito","Sheboygan","Sioux City","Somerville","Spartanburg","St. Petersburg|Saint Petersburg","Stillwater","Sandusky"],
+"leviathan":["Schenectady","Saratoga Springs","Steubenville","Sebastopol","Sterling Heights","Simi Valley","Sugar Land"]}},
+{"id":"t1-08","text":"Name a mammal whose name starts with M","category":"twist","tiers":{
+"seafoam":["monkey","moose","mouse","mole","mule","manatee"],
+"bait":["meerkat","mongoose","mountain lion","mountain goat","mink"],
+"shoal":["marmot","mandrill","muskrat","macaque","marmoset","mammoth","minke whale","musk ox"],
+"rare":["marten","mara","margay","mouflon","muntjac","markhor","maned wolf","mouse lemur","mole rat","mule deer"],
+"deep":["mangabey","mountain gorilla","Malayan tapir","Malayan sun bear","meadow vole","Mexican wolf","Mongolian gerbil","mastodon","marbled polecat","Mediterranean monk seal","mouse deer","moustached tamarin","mountain beaver"],
+"leviathan":["marsupial mole","Mhorr gazelle","maned sloth","moor macaque","mongoose lemur","mountain pygmy possum","Mindoro tamaraw"]}}
+]

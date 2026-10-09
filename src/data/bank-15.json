@@ -1,0 +1,58 @@
+[
+{"id":"p2-01","text":"Name a famous fictional dog","category":"culture","tiers":{
+"seafoam":["Lassie","Scooby-Doo","Snoopy","Toto","Clifford"],
+"bait":["Beethoven","Marley","Hooch","Old Yeller","Balto"],
+"shoal":["Air Bud","Benji","Brian Griffin","Odie","Rin Tin Tin","Hachiko","Togo"],
+"rare":["Blue","Gromit","Astro","Droopy","Muttley","Marmaduke","Huckleberry Hound","Spike","Courage the Cowardly Dog","Bluey"],
+"deep":["Cujo","Eddie","Wishbone","Dogmatix","Brain","Bullseye","Einstein","Spuds MacKenzie","Snowy","Scrappy-Doo","Underdog","Rowlf","Deputy Dawg"],
+"leviathan":["Dougal","K-9","Bouncer","Gnasher","Mr. Peabody"]}},
+{"id":"p2-02","text":"Name a movie with a number in the title","category":"culture","tiers":{
+"seafoam":["Se7en|Seven","300","Ocean's Eleven","The Fifth Element","21 Jump Street"],
+"bait":["8 Mile","50 First Dates","12 Angry Men","12 Years a Slave","2012"],
+"shoal":["The Sixth Sense","Apollo 13","13 Going on 30","28 Days Later","127 Hours","27 Dresses","The Magnificent Seven","Four Weddings and a Funeral"],
+"rare":["10 Cloverfield Lane","1917","2001: A Space Odyssey|2001","9 to 5","3:10 to Yuma","12 Monkeys","The Hateful Eight","Catch-22","42","Seven Pounds"],
+"deep":["500 Days of Summer","25th Hour","8½","1408","2 Fast 2 Furious","3 Men and a Baby","The 40-Year-Old Virgin","Three Kings"],
+"leviathan":["4 Months, 3 Weeks and 2 Days","99 Homes","3 Women","1941","Eight Men Out","Fahrenheit 451","Seven Years in Tibet","The Number 23","Two Weeks Notice","Zero Dark Thirty"]}},
+{"id":"p2-03","text":"Name a song with a color in the title","category":"culture","tiers":{
+"seafoam":["Purple Rain","Yellow","Paint It Black","Brown Eyed Girl","Back in Black"],
+"bait":["Blue Suede Shoes","Red Red Wine","Black or White","Mr. Blue Sky","Blue (Da Ba Dee)","Lady in Red"],
+"shoal":["Purple Haze","Blue Moon","Little Red Corvette","Black Magic Woman","White Christmas","Mellow Yellow","Gold Digger"],
+"rare":["Pink Houses","Black Velvet","Green Onions","White Wedding","Blue Monday","Orange Crush","Red Rubber Ball","Pink Cadillac","Back to Black"],
+"deep":["Black Dog","White Rabbit","Blue Velvet","Black Betty","Little Green Bag","Green Grass of Home","Black Hole Sun","Blue Jean"],
+"leviathan":["Yellow River","Orange Blossom Special","Violet Hill","Pink Moon","Scarlet Begonias","Blue Bayou","Red Rain","Pink Pony Club","Yellow Ledbetter","Silver Springs","Green Light"]}},
+{"id":"p2-04","text":"Name a band or artist with an animal in the name","category":"culture","tiers":{
+"seafoam":["Arctic Monkeys","Eagles","Snoop Dogg","Counting Crows"],
+"bait":["Whitesnake","The Black Crowes","Gorillaz","Wolfmother","Stray Cats"],
+"shoal":["Cage the Elephant","Fleet Foxes","Bad Bunny","The Monkees","The Turtles","Hootie & the Blowfish"],
+"rare":["Band of Horses","Modest Mouse","Grizzly Bear","Wolf Alice","Eagles of Death Metal","Cat Stevens","Panda Bear","Lamb of God"],
+"deep":["Toad the Wet Sprocket","Cat Power","Deerhunter","Beach Bunny","Animal Collective","Wolf Parade","Birds of Tokyo","Bear Hands"],
+"leviathan":["Tortoise","Ratt","Deer Tick","Sea Wolf","Pigeons Playing Ping Pong","Tame Impala","Goose","Mastodon","Swans","Hawkwind","Spiderbait","Pelican","The Flamingos","Gorilla Biscuits"]}},
+{"id":"p2-05","text":"Name a famous robot or AI from fiction","category":"culture","tiers":{
+"seafoam":["HAL 9000|HAL","The Terminator","Data","RoboCop","Bender"],
+"bait":["Optimus Prime","Rosie","Johnny 5","Skynet","Marvin the Paranoid Android|Marvin"],
+"shoal":["Bumblebee","Megatron","T-1000","Sonny","Ava","Robby the Robot","GLaDOS","Gort","KITT"],
+"rare":["TARS","Cortana","Ash","Bishop","Roy Batty","Samantha","Clank","Gigolo Joe","Mother"],
+"deep":["Crow T. Robot","Tom Servo","Twiki","Tik-Tok","Dolores Abernathy","Andrew Martin","Rachael","Maria"],
+"leviathan":["Holly","Colossus","GERTY","Dot Matrix","Kryten","Mega Man","Astro Boy","Chappie","Number Six"]}},
+{"id":"p2-06","text":"Name a famous Michael","category":"culture","tiers":{
+"seafoam":["Michael Jackson","Michael Jordan","Michael Phelps","Michael Douglas","Michael J. Fox"],
+"bait":["Michael Myers","Michael Bublé|Michael Buble","Michael Keaton","Michael Caine","Michael Bay","Michael Corleone"],
+"shoal":["Michael B. Jordan","Michael Cera","Michael Moore","Michael Stipe","Michael Strahan","Michael Bolton","Michael Fassbender","Michael Landon"],
+"rare":["Michael Palin","Michael Gambon","Michael Shannon","Michael Peña|Michael Pena","Michael Kors","Michael Vick","Michael Schumacher","Michael Johnson","Michael McDonald","Michael Faraday","Michael Collins"],
+"deep":["Michael Crichton","Michael Mann","Michael Haneke","Michael Imperioli","Michael Rooker","Michael Ironside","Michael Biehn","Michael Madsen"],
+"leviathan":["Michael Rosen","Michael Dorn","Michael Gough","Michael Nesmith","Michael Hutchence","Michael Sheen","Michael Clarke Duncan"]}},
+{"id":"p2-07","text":"Name a movie set in space","category":"culture","tiers":{
+"seafoam":["Interstellar","Gravity","Alien","The Martian","2001: A Space Odyssey|2001"],
+"bait":["Apollo 13","Armageddon","Star Trek","Moonraker","The Black Hole","Mars Attacks!"],
+"shoal":["Event Horizon","Sunshine","Moon","Ad Astra","Passengers","Prometheus","Contact","Galaxy Quest","Spaceballs"],
+"rare":["Space Cowboys","Flash Gordon","Dune","Solaris","Silent Running","Red Planet","Mission to Mars","Serenity","Pitch Black","Lost in Space","Elysium","Starship Troopers"],
+"deep":["Capricorn One","Dark Star","Outland","Europa Report","Barbarella","Forbidden Planet","Pandorum","Lifeforce","Total Recall"],
+"leviathan":["Aniara","High Life","Planet of the Vampires","Saturn 3","Space Truckers","Stowaway"]}},
+{"id":"p2-08","text":"Name a celebrity known by one name","category":"culture","tiers":{
+"seafoam":["Cher","Madonna","Beyoncé|Beyonce","Rihanna","Adele","Bono"],
+"bait":["Prince","Shakira","Oprah","Drake","Zendaya","Sting"],
+"shoal":["Pelé|Pele","Lizzo","Usher","Enya","Moby","Seal","Sade"],
+"rare":["Neymar","Ronaldinho","Lorde","Sia","Fergie","Brandy","Aaliyah","Monica","Ciara","Dido"],
+"deep":["Björk|Bjork","Sinbad","Fabio","Kaká|Kaka","Yanni","Lulu","Nena","Falco"],
+"leviathan":["Zico","Garrincha","Sócrates|Socrates","Romário|Romario","Mika","Banksy","Rivaldo","Gackt"]}}
+]

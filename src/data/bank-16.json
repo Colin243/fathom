@@ -1,0 +1,479 @@
+[
+ {
+  "id": "d2-01",
+  "text": "Name a US president",
+  "category": "knowledge",
+  "tiers": {
+   "seafoam": [
+    "George Washington|Washington",
+    "Abraham Lincoln|Lincoln",
+    "Barack Obama|Obama",
+    "Donald Trump|Trump",
+    "John F. Kennedy|Kennedy|JFK",
+    "Joe Biden|Biden",
+    "Franklin D. Roosevelt|FDR"
+   ],
+   "bait": [
+    "Thomas Jefferson|Jefferson",
+    "Ronald Reagan|Reagan",
+    "Bill Clinton|Clinton",
+    "Richard Nixon|Nixon",
+    "Dwight D. Eisenhower|Eisenhower",
+    "Jimmy Carter|Carter"
+   ],
+   "shoal": [
+    "Harry S. Truman|Truman",
+    "Lyndon B. Johnson|LBJ",
+    "Gerald Ford|Ford",
+    "George H. W. Bush|Bush Sr.",
+    "George W. Bush|Bush Jr.",
+    "John Adams",
+    "Andrew Jackson|Jackson",
+    "Ulysses S. Grant|Grant",
+    "Theodore Roosevelt|Teddy Roosevelt",
+    "Woodrow Wilson|Wilson"
+   ],
+   "rare": [
+    "James Madison|Madison",
+    "James Monroe|Monroe",
+    "Herbert Hoover|Hoover",
+    "Calvin Coolidge|Coolidge",
+    "William Howard Taft|Taft",
+    "William McKinley|McKinley",
+    "Warren G. Harding|Harding",
+    "Grover Cleveland|Cleveland",
+    "John Quincy Adams"
+   ],
+   "deep": [
+    "Martin Van Buren|Van Buren",
+    "William Henry Harrison",
+    "John Tyler|Tyler",
+    "James K. Polk|Polk",
+    "Zachary Taylor",
+    "Franklin Pierce|Pierce",
+    "James Buchanan|Buchanan",
+    "Andrew Johnson"
+   ],
+   "leviathan": [
+    "James Garfield|Garfield",
+    "Chester A. Arthur|Chester Arthur",
+    "Benjamin Harrison",
+    "Rutherford B. Hayes|Hayes",
+    "Millard Fillmore|Fillmore"
+   ]
+  }
+ },
+ {
+  "id": "d2-02",
+  "text": "Name a Roman emperor",
+  "category": "knowledge",
+  "tiers": {
+   "seafoam": [
+    "Augustus",
+    "Nero",
+    "Caligula",
+    "Constantine",
+    "Marcus Aurelius"
+   ],
+   "bait": [
+    "Hadrian",
+    "Trajan",
+    "Claudius",
+    "Tiberius",
+    "Commodus",
+    "Diocletian"
+   ],
+   "shoal": [
+    "Vespasian",
+    "Titus",
+    "Domitian",
+    "Septimius Severus",
+    "Caracalla",
+    "Justinian",
+    "Theodosius"
+   ],
+   "rare": [
+    "Galba",
+    "Otho",
+    "Vitellius",
+    "Nerva",
+    "Antoninus Pius",
+    "Lucius Verus",
+    "Elagabalus",
+    "Aurelian",
+    "Valerian",
+    "Julian"
+   ],
+   "deep": [
+    "Pertinax",
+    "Macrinus",
+    "Severus Alexander",
+    "Maximinus Thrax",
+    "Gordian III",
+    "Philip the Arab",
+    "Decius",
+    "Gallienus",
+    "Claudius Gothicus",
+    "Probus",
+    "Carus",
+    "Maximian",
+    "Galerius",
+    "Valentinian I",
+    "Honorius"
+   ],
+   "leviathan": [
+    "Didius Julianus",
+    "Pupienus",
+    "Balbinus",
+    "Tacitus",
+    "Numerian",
+    "Romulus Augustulus",
+    "Jovian"
+   ]
+  }
+ },
+ {
+  "id": "d2-03",
+  "text": "Name an English word borrowed from Japanese",
+  "category": "knowledge",
+  "tiers": {
+   "seafoam": [
+    "tsunami",
+    "karaoke",
+    "sushi",
+    "emoji",
+    "karate"
+   ],
+   "bait": [
+    "tycoon",
+    "origami",
+    "sake",
+    "haiku",
+    "kimono",
+    "samurai"
+   ],
+   "shoal": [
+    "ninja",
+    "anime",
+    "manga",
+    "sudoku",
+    "bonsai",
+    "tofu",
+    "ramen",
+    "futon"
+   ],
+   "rare": [
+    "tempura",
+    "wasabi",
+    "soy",
+    "kamikaze",
+    "zen",
+    "geisha",
+    "ikebana",
+    "sensei"
+   ],
+   "deep": [
+    "hibachi",
+    "edamame",
+    "shiitake",
+    "tatami",
+    "bento",
+    "koi",
+    "katana",
+    "kabuki",
+    "sumo",
+    "daikon",
+    "shogun",
+    "satsuma",
+    "judo"
+   ],
+   "leviathan": [
+    "ginkgo",
+    "skosh",
+    "honcho",
+    "kudzu",
+    "rickshaw"
+   ]
+  }
+ },
+ {
+  "id": "d2-05",
+  "text": "Name a classical composer",
+  "category": "knowledge",
+  "tiers": {
+   "seafoam": [
+    "Mozart",
+    "Beethoven",
+    "Bach",
+    "Chopin",
+    "Tchaikovsky",
+    "Vivaldi"
+   ],
+   "bait": [
+    "Brahms",
+    "Handel",
+    "Debussy",
+    "Schubert",
+    "Haydn",
+    "Liszt"
+   ],
+   "shoal": [
+    "Wagner",
+    "Verdi",
+    "Stravinsky",
+    "Mahler",
+    "Rachmaninoff",
+    "Schumann",
+    "Dvorak",
+    "Mendelssohn"
+   ],
+   "rare": [
+    "Puccini",
+    "Ravel",
+    "Grieg",
+    "Sibelius",
+    "Copland",
+    "Bizet",
+    "Mussorgsky",
+    "Rossini",
+    "Satie",
+    "Bartok"
+   ],
+   "deep": [
+    "Elgar",
+    "Holst",
+    "Vaughan Williams",
+    "Prokofiev",
+    "Shostakovich",
+    "Berlioz",
+    "Bruckner",
+    "Smetana",
+    "Janacek",
+    "Faure",
+    "Saint-Saens",
+    "Rimsky-Korsakov",
+    "Borodin"
+   ],
+   "leviathan": [
+    "Ligeti",
+    "Messiaen",
+    "Penderecki",
+    "Monteverdi",
+    "Palestrina",
+    "Dufay"
+   ]
+  }
+ },
+ {
+  "id": "d2-06",
+  "text": "Name a Broadway musical",
+  "category": "knowledge",
+  "tiers": {
+   "seafoam": [
+    "Hamilton",
+    "Wicked",
+    "The Lion King",
+    "Cats",
+    "Les Miserables",
+    "The Phantom of the Opera"
+   ],
+   "bait": [
+    "Chicago",
+    "Grease",
+    "Rent",
+    "West Side Story",
+    "The Sound of Music",
+    "Oklahoma!"
+   ],
+   "shoal": [
+    "Mamma Mia!",
+    "Annie",
+    "Fiddler on the Roof",
+    "Hairspray",
+    "Cabaret",
+    "The Book of Mormon",
+    "Dear Evan Hansen",
+    "Jersey Boys"
+   ],
+   "rare": [
+    "Guys and Dolls",
+    "My Fair Lady",
+    "Kinky Boots",
+    "Spamalot",
+    "Sweeney Todd",
+    "Into the Woods",
+    "A Chorus Line",
+    "Evita",
+    "Company",
+    "Hello, Dolly!"
+   ],
+   "deep": [
+    "Carousel",
+    "South Pacific",
+    "The King and I",
+    "Kiss Me, Kate",
+    "Gypsy",
+    "Pippin",
+    "Godspell",
+    "Hadestown",
+    "Fun Home",
+    "Next to Normal",
+    "Avenue Q",
+    "The Producers"
+   ],
+   "leviathan": [
+    "Show Boat",
+    "Pal Joey",
+    "Anything Goes",
+    "Sunday in the Park with George",
+    "Assassins",
+    "Follies"
+   ]
+  }
+ },
+ {
+  "id": "d2-07",
+  "text": "Name a Stephen King book",
+  "category": "knowledge",
+  "tiers": {
+   "seafoam": [
+    "It",
+    "The Shining",
+    "Carrie",
+    "Misery",
+    "Pet Sematary",
+    "The Stand"
+   ],
+   "bait": [
+    "Cujo",
+    "The Green Mile",
+    "Christine",
+    "The Dark Tower",
+    "11/22/63",
+    "Doctor Sleep"
+   ],
+   "shoal": [
+    "Salem's Lot",
+    "The Dead Zone",
+    "Firestarter",
+    "Under the Dome",
+    "Needful Things",
+    "Dreamcatcher",
+    "Gerald's Game",
+    "Different Seasons"
+   ],
+   "rare": [
+    "Thinner",
+    "The Running Man",
+    "Cell",
+    "Duma Key",
+    "Insomnia",
+    "Rose Madder",
+    "Bag of Bones",
+    "Lisey's Story",
+    "Joyland",
+    "Mr. Mercedes"
+   ],
+   "deep": [
+    "Desperation",
+    "The Tommyknockers",
+    "Dolores Claiborne",
+    "The Eyes of the Dragon",
+    "The Talisman",
+    "Black House",
+    "Billy Summers",
+    "Fairy Tale",
+    "Holly",
+    "The Outsider",
+    "Revival",
+    "Finders Keepers",
+    "End of Watch",
+    "Gwendy's Button Box",
+    "The Institute",
+    "Blaze",
+    "The Long Walk"
+   ],
+   "leviathan": [
+    "Rage",
+    "Roadwork",
+    "The Regulators",
+    "Sleeping Beauties",
+    "Later",
+    "Elevation",
+    "Cycle of the Werewolf"
+   ]
+  }
+ },
+ {
+  "id": "d2-08",
+  "text": "Name a famous battle",
+  "category": "knowledge",
+  "tiers": {
+   "seafoam": [
+    "Gettysburg",
+    "Waterloo",
+    "Normandy|D-Day",
+    "Pearl Harbor",
+    "Hastings",
+    "Thermopylae"
+   ],
+   "bait": [
+    "Stalingrad",
+    "Trafalgar",
+    "The Alamo|Alamo",
+    "Midway",
+    "The Bulge|Battle of the Bulge",
+    "Agincourt"
+   ],
+   "shoal": [
+    "Yorktown",
+    "Saratoga",
+    "Bull Run",
+    "Little Bighorn",
+    "Verdun",
+    "The Somme|Somme",
+    "Austerlitz",
+    "Iwo Jima",
+    "Bunker Hill"
+   ],
+   "rare": [
+    "Crecy",
+    "Salamis",
+    "Lepanto",
+    "Culloden",
+    "Borodino",
+    "Tours",
+    "Hattin",
+    "Gallipoli",
+    "Okinawa",
+    "Leipzig",
+    "Gaugamela",
+    "Antietam"
+   ],
+   "deep": [
+    "Marengo",
+    "Plassey",
+    "Blenheim",
+    "Poitiers",
+    "Bosworth Field",
+    "Cannae",
+    "Zama",
+    "Lexington and Concord",
+    "Shiloh",
+    "Chancellorsville",
+    "Fredericksburg",
+    "Vicksburg"
+   ],
+   "leviathan": [
+    "Manzikert",
+    "Lechfeld",
+    "Mohacs",
+    "Adrianople",
+    "Kadesh",
+    "Ain Jalut",
+    "Tannenberg",
+    "Plataea"
+   ]
+  }
+ }
+]
