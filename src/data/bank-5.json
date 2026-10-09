@@ -9,13 +9,17 @@
     "Germany",
     "Italy",
     "Spain",
-    "United Kingdom|UK|England"
+    "United Kingdom|UK|England",
+    "Russia"
    ],
    "bait": [
     "Greece",
     "Sweden",
     "Norway",
-    "Switzerland"
+    "Switzerland",
+    "Iceland",
+    "Monaco",
+    "Vatican City"
    ],
    "shoal": [
     "Portugal",
@@ -25,43 +29,39 @@
     "Ireland",
     "Austria",
     "Denmark",
-    "Finland"
+    "Finland",
+    "Ukraine",
+    "Turkey"
    ],
    "rare": [
-    "Russia",
-    "Ukraine",
     "Romania",
     "Hungary",
     "Czech Republic|Czechia",
     "Croatia",
-    "Iceland",
-    "Turkey"
-   ],
-   "deep": [
     "Serbia",
     "Bulgaria",
     "Slovakia",
-    "Slovenia",
+    "Slovenia"
+   ],
+   "deep": [
     "Lithuania",
     "Latvia",
     "Estonia",
     "Luxembourg",
-    "Belarus"
+    "Belarus",
+    "Malta",
+    "Cyprus",
+    "Albania"
    ],
    "leviathan": [
-    "Monaco",
     "Liechtenstein",
     "San Marino",
     "Andorra",
-    "Malta",
-    "Vatican City",
     "Moldova",
-    "Albania",
     "North Macedonia",
     "Montenegro",
     "Bosnia and Herzegovina",
-    "Kosovo",
-    "Cyprus"
+    "Kosovo"
    ]
   }
  },
@@ -92,10 +92,11 @@
     "Israel",
     "North Korea",
     "Bangladesh",
-    "Turkey"
+    "Turkey",
+    "Taiwan",
+    "Afghanistan"
    ],
    "rare": [
-    "Afghanistan",
     "Nepal",
     "Sri Lanka",
     "Mongolia",
@@ -104,18 +105,20 @@
     "Laos",
     "Myanmar|Burma",
     "Jordan",
-    "Lebanon"
+    "Lebanon",
+    "United Arab Emirates|UAE",
+    "Syria"
    ],
    "deep": [
-    "Syria",
     "Yemen",
     "Oman",
     "Qatar",
     "Kuwait",
-    "United Arab Emirates|UAE",
     "Uzbekistan",
     "Bhutan",
-    "Brunei"
+    "Brunei",
+    "Armenia",
+    "Azerbaijan"
    ],
    "leviathan": [
     "Turkmenistan",
@@ -124,11 +127,8 @@
     "Maldives",
     "Bahrain",
     "Timor-Leste|East Timor",
-    "Armenia",
-    "Azerbaijan",
     "Georgia",
-    "Palestine",
-    "Taiwan"
+    "Palestine"
    ]
   }
  },
@@ -280,10 +280,10 @@
     "Saturn",
     "Venus",
     "Earth",
-    "Moon"
+    "Moon",
+    "Mercury"
    ],
    "bait": [
-    "Mercury",
     "Neptune",
     "Uranus"
    ],
@@ -407,7 +407,12 @@
     "Navicular",
     "Cuneiform",
     "Atlas",
-    "Axis"
+    "Axis",
+    "Frontal",
+    "Parietal",
+    "Temporal",
+    "Occipital",
+    "Nasal"
    ],
    "leviathan": [
     "Stapes",
@@ -416,13 +421,8 @@
     "Vomer",
     "Ethmoid",
     "Sphenoid",
-    "Occipital",
-    "Parietal",
-    "Temporal",
-    "Frontal",
     "Lacrimal",
     "Palatine",
-    "Nasal",
     "Xiphoid process"
    ]
   }

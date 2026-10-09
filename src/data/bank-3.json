@@ -150,7 +150,31 @@
     "Tyranitar",
     "Scizor",
     "Steelix",
-    "Marill"
+    "Marill",
+    "Rayquaza",
+    "Kyogre",
+    "Groudon",
+    "Garchomp",
+    "Sylveon",
+    "Gardevoir",
+    "Mimikyu",
+    "Blaziken",
+    "Sceptile",
+    "Swampert",
+    "Mudkip",
+    "Torchic",
+    "Treecko",
+    "Piplup",
+    "Chimchar",
+    "Turtwig",
+    "Dialga",
+    "Palkia",
+    "Giratina",
+    "Arceus",
+    "Zoroark",
+    "Wobbuffet",
+    "Metagross",
+    "Salamence"
    ],
    "leviathan": [
     "Kakuna",
@@ -223,7 +247,6 @@
     "Slowking",
     "Misdreavus",
     "Unown",
-    "Wobbuffet",
     "Girafarig",
     "Pineco",
     "Forretress",
@@ -263,12 +286,6 @@
     "Blissey",
     "Larvitar",
     "Pupitar",
-    "Treecko",
-    "Torchic",
-    "Mudkip",
-    "Blaziken",
-    "Sceptile",
-    "Swampert",
     "Combusken",
     "Grovyle",
     "Marshtomp",
@@ -283,7 +300,6 @@
     "Pelipper",
     "Ralts",
     "Kirlia",
-    "Gardevoir",
     "Gallade",
     "Surskit",
     "Shroomish",
@@ -359,22 +375,14 @@
     "Relicanth",
     "Luvdisc",
     "Bagon",
-    "Salamence",
     "Beldum",
-    "Metagross",
     "Regirock",
     "Regice",
     "Registeel",
     "Latias",
     "Latios",
-    "Kyogre",
-    "Groudon",
-    "Rayquaza",
     "Jirachi",
     "Deoxys",
-    "Turtwig",
-    "Chimchar",
-    "Piplup",
     "Infernape",
     "Torterra",
     "Empoleon",
@@ -409,7 +417,6 @@
     "Spiritomb",
     "Gible",
     "Gabite",
-    "Garchomp",
     "Munchlax",
     "Riolu",
     "Hippopotas",
@@ -437,9 +444,6 @@
     "Uxie",
     "Mesprit",
     "Azelf",
-    "Dialga",
-    "Palkia",
-    "Giratina",
     "Heatran",
     "Regigigas",
     "Cresselia",
@@ -447,7 +451,6 @@
     "Manaphy",
     "Darkrai",
     "Shaymin",
-    "Arceus",
     "Victini",
     "Snivy",
     "Tepig",
@@ -493,7 +496,6 @@
     "Trubbish",
     "Garbodor",
     "Zorua",
-    "Zoroark",
     "Minccino",
     "Gothita",
     "Solosis",
@@ -588,7 +590,6 @@
     "Tyrantrum",
     "Amaura",
     "Aurorus",
-    "Sylveon",
     "Hawlucha",
     "Dedenne",
     "Carbink",
@@ -649,7 +650,6 @@
     "Komala",
     "Turtonator",
     "Togedemaru",
-    "Mimikyu",
     "Bruxish",
     "Drampa",
     "Dhelmise",
@@ -876,7 +876,8 @@
     "Doctor Doom|Dr. Doom|Victor von Doom",
     "Green Goblin|Norman Osborn",
     "Ultron",
-    "Falcon|Sam Wilson"
+    "Falcon|Sam Wilson",
+    "Rogue"
    ],
    "rare": [
     "Winter Soldier|Bucky Barnes|Bucky",
@@ -887,7 +888,6 @@
     "Wasp|Janet van Dyne|Hope van Dyne",
     "War Machine|James Rhodes|Rhodey",
     "Jean Grey|Phoenix|Dark Phoenix",
-    "Rogue",
     "Gambit",
     "Beast|Hank McCoy",
     "Iceman|Bobby Drake",
@@ -918,18 +918,25 @@
     "Hela",
     "Mephisto",
     "Carnage",
-    "Blade"
+    "Blade",
+    "Mysterio",
+    "Electro",
+    "Juggernaut",
+    "Odin",
+    "Namor|Namor the Sub-Mariner",
+    "Quicksilver|Pietro Maximoff",
+    "Okoye",
+    "Shuri",
+    "Yondu",
+    "Wong",
+    "Bullseye"
    ],
    "deep": [
     "Luke Cage",
     "Jessica Jones",
     "Iron Fist|Danny Rand",
     "Elektra",
-    "Quicksilver|Pietro Maximoff",
     "Sabretooth",
-    "Juggernaut",
-    "Mysterio",
-    "Electro",
     "Sandman",
     "Vulture",
     "Rhino",
@@ -942,16 +949,11 @@
     "Morbius",
     "Silk",
     "Spider-Woman|Jessica Drew",
-    "Okoye",
-    "Shuri",
     "Killmonger|Erik Killmonger",
-    "Namor|Namor the Sub-Mariner",
     "Hercules",
     "Valkyrie",
     "Sif|Lady Sif",
     "Heimdall",
-    "Odin",
-    "Yondu",
     "Ronan|Ronan the Accuser",
     "Adam Warlock",
     "Nova|Richard Rider",
@@ -988,7 +990,6 @@
     "Whiplash",
     "Ego|Ego the Living Planet",
     "Dormammu",
-    "Wong",
     "Ancient One",
     "Clea",
     "Black Bolt",
@@ -1019,7 +1020,8 @@
     "Phastos",
     "Ajak",
     "Sprite",
-    "Eros|Starfox"
+    "Eros|Starfox",
+    "Mandarin"
    ],
    "leviathan": [
     "Arcade",
@@ -1035,7 +1037,6 @@
     "Blastaar",
     "Blob",
     "Boom-Boom|Boomer",
-    "Bullseye",
     "Bushwacker",
     "Calypso",
     "Captain Britain",
@@ -1086,7 +1087,6 @@
     "Madame Web",
     "Madelyne Pryor",
     "Man-Thing",
-    "Mandarin",
     "Marrow",
     "Maximus",
     "Melter",
@@ -1239,7 +1239,8 @@
     "Bagpipes|Bagpipe",
     "Organ|Pipe organ",
     "Synthesizer|Synth",
-    "Cymbal|Cymbals"
+    "Cymbal|Cymbals",
+    "Electric guitar"
    ],
    "rare": [
     "Bassoon",
@@ -1266,7 +1267,6 @@
     "Cornet",
     "Euphonium",
     "Sousaphone",
-    "Electric guitar",
     "Acoustic guitar",
     "Melodica",
     "Theremin",
@@ -1281,7 +1281,10 @@
     "Harmonium",
     "Ocarina",
     "Autoharp",
-    "Keytar"
+    "Keytar",
+    "Tom-tom|Tom",
+    "Hi-hat|Hihat",
+    "Shaker"
    ],
    "deep": [
     "English horn|Cor anglais",
@@ -1337,7 +1340,6 @@
     "Cuatro",
     "Tres",
     "Guiro",
-    "Shaker",
     "Claves",
     "Timbales",
     "Woodblock|Wood block",
@@ -1345,8 +1347,6 @@
     "Cabasa",
     "Vibraslap",
     "Rainstick|Rain stick",
-    "Tom-tom|Tom",
-    "Hi-hat|Hihat",
     "Drum machine",
     "Sampler",
     "Turntable|Turntables",
@@ -1366,7 +1366,9 @@
     "Shofar",
     "Conch|Conch shell",
     "Alphorn|Alpenhorn",
-    "Vuvuzela"
+    "Vuvuzela",
+    "Taiko",
+    "Slide whistle"
    ],
    "leviathan": [
     "Viola da gamba|Viol",
@@ -1402,7 +1404,6 @@
     "Gayageum",
     "Haegeum",
     "Janggu",
-    "Taiko",
     "Biwa",
     "Sanshin",
     "Hichiriki",
@@ -1483,7 +1484,6 @@
     "Bass flute",
     "Alto flute",
     "Nose flute",
-    "Slide whistle",
     "Bird whistle",
     "Boatswain's call",
     "Clavinet",
@@ -1541,25 +1541,25 @@
     "Los Angeles Clippers|Clippers|LA Clippers",
     "Orlando Magic|Magic",
     "Detroit Pistons|Pistons",
-    "Atlanta Hawks|Hawks"
-   ],
-   "rare": [
+    "Atlanta Hawks|Hawks",
     "Oklahoma City Thunder|Thunder|OKC Thunder|OKC",
     "Utah Jazz|Jazz",
     "Portland Trail Blazers|Trail Blazers|Blazers|Portland Trailblazers",
-    "Sacramento Kings|Kings",
+    "Sacramento Kings|Kings"
+   ],
+   "rare": [
     "Indiana Pacers|Pacers",
     "Minnesota Timberwolves|Timberwolves|Wolves",
     "Memphis Grizzlies|Grizzlies",
     "New Orleans Pelicans|Pelicans",
     "Charlotte Hornets|Hornets",
     "Washington Wizards|Wizards",
-    "Seattle SuperSonics|SuperSonics|Sonics|Seattle Sonics"
+    "Seattle SuperSonics|SuperSonics|Sonics|Seattle Sonics",
+    "New Jersey Nets",
+    "Charlotte Bobcats|Bobcats"
    ],
    "deep": [
-    "New Jersey Nets",
     "Vancouver Grizzlies",
-    "Charlotte Bobcats|Bobcats",
     "New Orleans Hornets",
     "Washington Bullets|Bullets",
     "Kansas City Kings",
@@ -1675,7 +1675,9 @@
     "Aeolus",
     "Nereus",
     "Proteus",
-    "Leto"
+    "Leto",
+    "Heracles|Hercules",
+    "Psyche"
    ],
    "deep": [
     "Coeus|Koios",
@@ -1718,9 +1720,7 @@
     "Aristaeus",
     "Asopus",
     "Achelous",
-    "Psyche",
     "Ganymede",
-    "Heracles|Hercules",
     "Plutus",
     "Comus",
     "Momus",
@@ -1756,7 +1756,9 @@
     "Megaera",
     "Tisiphone",
     "Hesperides",
-    "Anemoi"
+    "Anemoi",
+    "Calypso",
+    "Circe"
    ],
    "leviathan": [
     "Phanes",
@@ -1816,8 +1818,6 @@
     "Alcyone",
     "Celaeno",
     "Sterope",
-    "Calypso",
-    "Circe",
     "Aeetes",
     "Pasiphae",
     "Phaethon",
@@ -1896,22 +1896,12 @@
     "Aladdin",
     "The Little Mermaid|Little Mermaid",
     "Beauty and the Beast",
-    "Frozen II|Frozen 2",
-    "Toy Story 2",
-    "Toy Story 3",
-    "Toy Story 4",
-    "Toy Story 5",
-    "The Lion King 2: Simba's Pride|Lion King 2|Simba's Pride",
-    "The Lion King 1½|Lion King 1 1/2",
-    "The Little Mermaid II|Little Mermaid 2"
+    "Finding Nemo"
    ],
    "bait": [
     "Snow White and the Seven Dwarfs|Snow White",
-    "Finding Nemo",
     "Moana",
-    "Cinderella",
-    "Moana 2",
-    "Cinderella II|Cinderella 2"
+    "Cinderella"
    ],
    "shoal": [
     "Tangled",
@@ -1937,21 +1927,24 @@
     "Incredibles 2",
     "Inside Out 2",
     "Zootopia 2",
-    "Mulan II|Mulan 2",
-    "Bambi II|Bambi 2",
-    "Pocahontas II|Pocahontas 2"
+    "Toy Story 2",
+    "Toy Story 3",
+    "Toy Story 4",
+    "Toy Story 5",
+    "Frozen II|Frozen 2",
+    "Moana 2",
+    "The Jungle Book|Jungle Book",
+    "101 Dalmatians|One Hundred and One Dalmatians",
+    "Alice in Wonderland",
+    "Big Hero 6",
+    "Lady and the Tramp"
    ],
    "rare": [
     "Fantasia",
-    "The Jungle Book|Jungle Book",
-    "101 Dalmatians|One Hundred and One Dalmatians",
-    "Lady and the Tramp",
-    "Alice in Wonderland",
     "The Hunchback of Notre Dame|Hunchback of Notre Dame",
     "Tarzan",
     "The Princess and the Frog|Princess and the Frog",
     "Wreck-It Ralph|Wreck It Ralph",
-    "Big Hero 6",
     "Finding Dory",
     "Brave",
     "A Bug's Life|Bugs Life",
@@ -1978,7 +1971,13 @@
     "The Jungle Book 2|Jungle Book 2",
     "Lady and the Tramp II|Lady and the Tramp 2",
     "Tarzan II|Tarzan 2",
-    "Brother Bear 2"
+    "Brother Bear 2",
+    "The Lion King 2: Simba's Pride|Lion King 2|Simba's Pride",
+    "The Little Mermaid II|Little Mermaid 2",
+    "Mulan II|Mulan 2",
+    "Bambi II|Bambi 2",
+    "Pocahontas II|Pocahontas 2",
+    "The Nightmare Before Christmas|Nightmare Before Christmas"
    ],
    "deep": [
     "The Fox and the Hound|Fox and the Hound",
@@ -2003,7 +2002,6 @@
     "Melody Time",
     "The Adventures of Ichabod and Mr. Toad|Ichabod and Mr. Toad",
     "James and the Giant Peach",
-    "The Nightmare Before Christmas|Nightmare Before Christmas",
     "A Goofy Movie|Goofy Movie",
     "DuckTales the Movie|DuckTales: Treasure of the Lost Lamp",
     "Planes",
@@ -2024,7 +2022,9 @@
     "Doug's 1st Movie|Doug's First Movie",
     "A Christmas Carol",
     "Hoppers",
-    "The Fox and the Hound 2|Fox and the Hound 2"
+    "The Fox and the Hound 2|Fox and the Hound 2",
+    "The Lion King 1½|Lion King 1 1/2",
+    "Cinderella II|Cinderella 2"
    ],
    "leviathan": [
     "The Reluctant Dragon|Reluctant Dragon",
@@ -2108,14 +2108,15 @@
     "Othello|Reversi",
     "Hungry Hungry Hippos",
     "Yahtzee",
-    "Jenga"
+    "Jenga",
+    "Mahjong|Mah-jongg|Mahjongg",
+    "Tic-tac-toe|Noughts and Crosses"
    ],
    "rare": [
     "Pandemic",
     "Carcassonne",
     "Codenames",
     "Dominion",
-    "Twilight Imperium",
     "Splendor",
     "Azul",
     "Wingspan",
@@ -2140,7 +2141,6 @@
     "Blokus",
     "Rummikub",
     "Hotels",
-    "Mahjong|Mah-jongg|Mahjongg",
     "Shogi",
     "Xiangqi|Chinese chess",
     "Nine Men's Morris|Mill",
@@ -2170,7 +2170,6 @@
     "7 Wonders|Seven Wonders"
    ],
    "deep": [
-    "Battleship Galaxies",
     "Ark Nova",
     "Brass: Birmingham|Brass Birmingham",
     "Brass: Lancashire",
@@ -2263,13 +2262,14 @@
     "Carrom",
     "Crokinole",
     "Shut the Box",
-    "Tic-tac-toe|Noughts and Crosses",
     "Dots and Boxes",
     "Bananagrams",
     "Upwords",
     "Stay Alive",
     "Dungeon!",
-    "Fireball Island"
+    "Fireball Island",
+    "Twilight Imperium",
+    "Civilization"
    ],
    "leviathan": [
     "Alhambra",
@@ -2368,7 +2368,6 @@
     "Square Mile",
     "Hexplore",
     "Kingmaker",
-    "Civilization",
     "Advanced Civilization",
     "Shogun",
     "Samurai Swords",
@@ -2403,7 +2402,8 @@
     "John Company",
     "Oath",
     "Arcs",
-    "Votes for Women"
+    "Votes for Women",
+    "Battleship Galaxies"
    ]
   }
  },
@@ -2418,18 +2418,18 @@
     "Honda",
     "BMW",
     "Chevrolet|Chevy",
-    "Tesla"
+    "Tesla",
+    "Mercedes-Benz|Mercedes|Benz",
+    "Volkswagen|VW"
    ],
    "bait": [
     "Ferrari",
     "Lamborghini",
-    "Porsche",
-    "Mercedes-Benz|Mercedes|Benz"
+    "Porsche"
    ],
    "shoal": [
     "Nissan",
     "Audi",
-    "Volkswagen|VW",
     "Hyundai",
     "Kia",
     "Subaru",
@@ -2446,11 +2446,11 @@
     "Bugatti",
     "Rolls-Royce|Rolls Royce",
     "Bentley",
-    "Maserati"
+    "Maserati",
+    "Mitsubishi",
+    "Land Rover|Range Rover"
    ],
    "rare": [
-    "Mitsubishi",
-    "Land Rover|Range Rover",
     "Acura",
     "Infiniti",
     "Lincoln",
@@ -2488,7 +2488,12 @@
     "Daewoo",
     "Scion",
     "BYD",
-    "Lancia"
+    "Lancia",
+    "Maybach",
+    "MG",
+    "Yugo",
+    "Studebaker",
+    "Edsel"
    ],
    "deep": [
     "Daihatsu",
@@ -2511,7 +2516,6 @@
     "Li Auto",
     "Zeekr",
     "Lynk & Co",
-    "MG",
     "Rover",
     "Triumph",
     "Austin",
@@ -2532,14 +2536,12 @@
     "Singer",
     "Reliant",
     "AMC|American Motors",
-    "Studebaker",
     "Packard",
     "Hudson",
     "Nash",
     "Kaiser",
     "Willys",
     "Tucker",
-    "Edsel",
     "DeSoto|De Soto",
     "Imperial",
     "Eagle",
@@ -2551,7 +2553,6 @@
     "Pierce-Arrow",
     "Stutz",
     "Hispano-Suiza",
-    "Maybach",
     "Wiesmann",
     "Gumpert",
     "Apollo",
@@ -2573,7 +2574,6 @@
     "Wartburg",
     "Tatra",
     "Zastava",
-    "Yugo",
     "Spyker",
     "Donkervoort",
     "Fisker",
@@ -2624,7 +2624,9 @@
     "Jetour",
     "Exeed",
     "Omoda",
-    "Jaecoo"
+    "Jaecoo",
+    "AMG",
+    "Alpine"
    ],
    "leviathan": [
     "Talbot",
@@ -2636,7 +2638,6 @@
     "Hotchkiss",
     "Matra",
     "Venturi",
-    "Alpine",
     "Ligier",
     "Aixam",
     "Microcar",
@@ -2657,7 +2658,6 @@
     "Ruf",
     "Alpina",
     "Brabus",
-    "AMG",
     "Gemballa",
     "Irmscher",
     "Lorinser",
@@ -2820,10 +2820,10 @@
     "Ron Weasley|Ron|Ronald Weasley",
     "Dumbledore|Albus Dumbledore",
     "Voldemort|Lord Voldemort|Tom Riddle|You-Know-Who",
-    "Snape|Severus Snape"
+    "Snape|Severus Snape",
+    "Hagrid|Rubeus Hagrid"
    ],
    "bait": [
-    "Hagrid|Rubeus Hagrid",
     "Dobby",
     "Draco Malfoy|Draco",
     "Sirius Black|Sirius"
@@ -2900,7 +2900,11 @@
     "Gregory Goyle|Goyle",
     "Firenze",
     "Aberforth Dumbledore|Aberforth",
-    "Rita Skeeter"
+    "Rita Skeeter",
+    "Nicolas Flamel",
+    "Salazar Slytherin",
+    "Godric Gryffindor",
+    "Newt Scamander"
    ],
    "deep": [
     "Parvati Patil|Parvati",
@@ -3005,12 +3009,8 @@
     "Errol",
     "Hermes",
     "Arnold",
-    "Godric Gryffindor",
     "Helga Hufflepuff",
     "Rowena Ravenclaw",
-    "Salazar Slytherin",
-    "Nicolas Flamel",
-    "Newt Scamander",
     "Mafalda Hopkirk",
     "Dirk Cresswell",
     "Reg Cattermole",
@@ -3020,7 +3020,8 @@
     "Ragnok",
     "Bane",
     "Ronan",
-    "Magorian"
+    "Magorian",
+    "Marge Dursley|Aunt Marge"
    ],
    "leviathan": [
     "Euan Abercrombie",
@@ -3100,7 +3101,6 @@
     "Bathsheda Babbling",
     "Mr. Granger",
     "Mrs. Granger",
-    "Marge Dursley|Aunt Marge",
     "Ripper",
     "Piers Polkiss",
     "Dennis",
@@ -3183,17 +3183,17 @@
     "King",
     "Queen",
     "Pawn",
-    "Rook|Castle"
+    "Rook|Castle",
+    "Knight",
+    "Bishop",
+    "Stalemate"
    ],
    "bait": [
-    "Stalemate",
     "Castling",
     "En passant",
     "Gambit"
    ],
    "shoal": [
-    "Knight",
-    "Bishop",
     "Board|Chessboard",
     "Grandmaster|GM",
     "Opening",
@@ -3211,7 +3211,9 @@
     "Capture",
     "Tempo",
     "Blitz",
-    "Elo|Elo rating"
+    "Elo|Elo rating",
+    "Queen's Gambit",
+    "Blunder"
    ],
    "rare": [
     "Skewer",
@@ -3221,7 +3223,6 @@
     "Zugzwang",
     "Fianchetto",
     "Middlegame",
-    "Queen's Gambit",
     "King's Gambit",
     "Sicilian Defense|Sicilian",
     "French Defense",
@@ -3252,8 +3253,8 @@
     "FIDE",
     "Notation|Algebraic notation",
     "Opponent",
-    "Blunder",
-    "Brilliant move"
+    "Brilliant move",
+    "Stockfish"
    ],
    "deep": [
     "Touch-move|Touch move",
@@ -3333,7 +3334,6 @@
     "Kibitzer|Kibitz",
     "Fish",
     "Engine|Chess engine",
-    "Stockfish",
     "Arbiter",
     "Seconds",
     "Candidate move|Candidates",
@@ -3371,7 +3371,9 @@
     "Blackburne's mate",
     "Lolli's mate",
     "Max Lange's mate",
-    "Réti's mate"
+    "Réti's mate",
+    "London System",
+    "Bongcloud"
    ],
    "leviathan": [
     "Luft",
@@ -3385,7 +3387,6 @@
     "Hedgehog",
     "Hippopotamus",
     "Stonewall",
-    "London System",
     "Colle System",
     "Torre Attack",
     "Trompowsky",
@@ -3439,7 +3440,6 @@
     "Larsen's Opening",
     "King's Indian Attack",
     "Orangutan|Sokolsky",
-    "Bongcloud",
     "Halloween Gambit",
     "Jerome Gambit",
     "Stafford Gambit",
@@ -3570,7 +3570,11 @@
     "Golf",
     "Skateboarding",
     "Surfing",
-    "Sport climbing|Climbing|Rock climbing"
+    "Sport climbing|Climbing|Rock climbing",
+    "Marathon",
+    "High jump",
+    "Long jump",
+    "Pole vault"
    ],
    "rare": [
     "Beach volleyball",
@@ -3606,24 +3610,21 @@
     "Trampoline",
     "Rhythmic gymnastics",
     "Artistic gymnastics",
-    "Marathon",
     "Decathlon",
     "Heptathlon",
-    "Pole vault",
-    "High jump",
-    "Long jump",
-    "Triple jump"
-   ],
-   "deep": [
+    "Triple jump",
     "Javelin|Javelin throw",
     "Shot put",
     "Discus|Discus throw",
-    "Hammer throw",
     "Hurdles",
+    "Sprint",
+    "Relay",
+    "Hammer throw",
+    "Tug of war"
+   ],
+   "deep": [
     "Steeplechase",
     "Race walking|Racewalking",
-    "Relay",
-    "Sprint",
     "Marathon swimming|Open water swimming",
     "BMX",
     "BMX freestyle",
@@ -3680,11 +3681,21 @@
     "Coastal rowing|Beach sprint rowing",
     "Obstacle course racing|OCR",
     "Snatch",
-    "Clean and jerk"
+    "Clean and jerk",
+    "Pommel horse",
+    "Balance beam|Beam",
+    "Parallel bars",
+    "Uneven bars",
+    "Vault",
+    "Rings",
+    "Floor exercise|Floor",
+    "Horizontal bar|High bar",
+    "Butterfly",
+    "Backstroke",
+    "Breaststroke",
+    "Polo"
    ],
    "leviathan": [
-    "Tug of war",
-    "Polo",
     "Croquet",
     "Roque",
     "Rackets",
@@ -3711,19 +3722,8 @@
     "Underwater swimming",
     "Obstacle swimming",
     "Tumbling",
-    "Rings",
-    "Pommel horse",
-    "Vault",
-    "Parallel bars",
-    "Horizontal bar|High bar",
-    "Uneven bars",
-    "Balance beam|Beam",
-    "Floor exercise|Floor",
     "Individual all-around|All-around",
     "Swimming medley|Individual medley",
-    "Butterfly",
-    "Backstroke",
-    "Breaststroke",
     "Freestyle swimming|Front crawl",
     "Kayak cross",
     "Team sprint",
@@ -3769,13 +3769,7 @@
     "Xbox",
     "Nintendo Switch|Switch",
     "Wii|Nintendo Wii",
-    "Game Boy|Gameboy",
-    "Nintendo Switch Lite|Switch Lite",
-    "Nintendo Switch OLED|Switch OLED",
-    "PSone|PS One",
-    "Game Boy Pocket",
-    "Game Boy Light",
-    "Wii Mini"
+    "Game Boy|Gameboy"
    ],
    "bait": [
     "Nintendo 64|N64",
@@ -3801,24 +3795,17 @@
     "PSP|PlayStation Portable",
     "Sega Dreamcast|Dreamcast",
     "Nintendo Switch 2|Switch 2",
-    "Xbox One S",
-    "Xbox One X",
-    "PlayStation 4 Pro|PS4 Pro",
-    "PlayStation 5 Pro|PS5 Pro",
-    "PlayStation 3 Slim",
-    "Nintendo DSi|DSi",
     "Nintendo DS Lite|DS Lite",
-    "New Nintendo 3DS",
-    "Game Boy Micro",
     "Game Boy Advance SP|GBA SP",
-    "PSP Go"
+    "Nintendo Switch Lite|Switch Lite",
+    "Nintendo Switch OLED|Switch OLED",
+    "Steam Deck",
+    "Sega Saturn|Saturn"
    ],
    "rare": [
     "PlayStation Vita|PS Vita|Vita",
-    "Sega Saturn|Saturn",
     "Game Gear|Sega Game Gear",
     "Sega Master System|Master System",
-    "Steam Deck",
     "Xbox Series S|Series S",
     "Nintendo 2DS|2DS",
     "Virtual Boy",
@@ -3844,7 +3831,18 @@
     "Steam Machine",
     "Analogue Pocket",
     "ROG Ally|Asus ROG Ally",
-    "Legion Go|Lenovo Legion Go"
+    "Legion Go|Lenovo Legion Go",
+    "PSone|PS One",
+    "Game Boy Pocket",
+    "Xbox One S",
+    "Xbox One X",
+    "PlayStation 4 Pro|PS4 Pro",
+    "PlayStation 5 Pro|PS5 Pro",
+    "PlayStation 3 Slim",
+    "Nintendo DSi|DSi",
+    "New Nintendo 3DS",
+    "Game Boy Micro",
+    "PSP Go"
    ],
    "deep": [
     "Philips CD-i|CD-i|CDi",
@@ -3869,7 +3867,9 @@
     "Xbox Ally|ROG Xbox Ally",
     "Google Stadia|Stadia",
     "Amazon Luna|Luna",
-    "Pong|Home Pong"
+    "Pong|Home Pong",
+    "Game Boy Light",
+    "Wii Mini"
    ],
    "leviathan": [
     "Sega Pico Beena",
@@ -3965,7 +3965,10 @@
     "The Long and Winding Road|Long and Winding Road",
     "Octopus's Garden",
     "All My Loving",
-    "Day Tripper"
+    "Day Tripper",
+    "I Saw Her Standing There",
+    "I Am the Walrus",
+    "Helter Skelter"
    ],
    "rare": [
     "Paperback Writer",
@@ -3973,15 +3976,12 @@
     "Drive My Car",
     "Back in the U.S.S.R.|Back in the USSR",
     "Ob-La-Di, Ob-La-Da|Obladi Oblada",
-    "Helter Skelter",
-    "I Am the Walrus",
     "Magical Mystery Tour",
     "Here, There and Everywhere",
     "Got to Get You into My Life",
     "Taxman",
     "We Can Work It Out",
     "Eight Days a Week",
-    "I Saw Her Standing There",
     "Please Please Me",
     "From Me to You",
     "I Feel Fine",
@@ -4007,7 +4007,9 @@
     "Julia",
     "Rocky Raccoon",
     "Birthday",
-    "When I'm Sixty-Four|When I'm 64"
+    "When I'm Sixty-Four|When I'm 64",
+    "Now and Then",
+    "Free as a Bird"
    ],
    "deep": [
     "Getting Better",
@@ -4086,22 +4088,20 @@
     "Good Night",
     "I've Got a Feeling",
     "One After 909",
-    "Free as a Bird",
     "Real Love",
-    "Now and Then"
+    "Revolution 9",
+    "Don't Pass Me By",
+    "I Me Mine"
    ],
    "leviathan": [
-    "Revolution 9",
     "Wild Honey Pie",
     "The Continuing Story of Bungalow Bill|Bungalow Bill",
-    "Don't Pass Me By",
     "Yer Blues",
     "Long, Long, Long",
     "Cry Baby Cry",
     "Everybody's Got Something to Hide Except Me and My Monkey",
     "Old Brown Shoe",
     "Dig a Pony",
-    "I Me Mine",
     "Dig It",
     "For You Blue",
     "Maggie Mae",
@@ -4281,7 +4281,9 @@
     "Spike",
     "Whomp",
     "Bully",
-    "Mechakoopa"
+    "Mechakoopa",
+    "Dr. Mario",
+    "King K. Rool|K. Rool"
    ],
    "deep": [
     "Geno",
@@ -4400,7 +4402,6 @@
     "Bandit",
     "Klaptrap",
     "Kritter",
-    "King K. Rool|K. Rool",
     "Candy Kong",
     "Lanky Kong",
     "Tiny Kong",
@@ -4432,7 +4433,11 @@
     "Spitz",
     "5-Volt",
     "Lulu",
-    "Mike"
+    "Mike",
+    "Baby Bowser",
+    "Boom Boom",
+    "Fire Bro",
+    "Big Boo"
    ],
    "leviathan": [
     "Foreman Spike",
@@ -4539,14 +4544,10 @@
     "Kylie Koopa",
     "Olly|King Olly",
     "Waddlewing",
-    "Dr. Mario",
-    "Baby Bowser",
     "Cat Peach",
-    "Boom Boom",
     "Pom Pom",
     "Reznor",
     "Chargin Chuck",
-    "Fire Bro",
     "Boomerang Bro",
     "Sledge Bro",
     "Rocky Wrench",
@@ -4563,7 +4564,6 @@
     "Chef Toady",
     "Sprixie Princess|Sprixies",
     "Toad Brigade",
-    "Big Boo",
     "Mummipokey",
     "Sumo Bro",
     "Spiny Cheep Cheep",
@@ -4639,7 +4639,10 @@
     "Mani",
     "Nott",
     "Dagr",
-    "Garm|Garmr"
+    "Garm|Garmr",
+    "Sigurd|Siegfried",
+    "Fafnir",
+    "Ragnar Lodbrok"
    ],
    "deep": [
     "Buri",
@@ -4690,8 +4693,6 @@
     "Eikthyrnir",
     "Heidrun",
     "Andvari",
-    "Fafnir",
-    "Sigurd|Siegfried",
     "Regin",
     "Brynhild|Brunhilde",
     "Gudrun",
@@ -4726,7 +4727,6 @@
     "Loddfafnir",
     "Gylfi",
     "Starkad",
-    "Ragnar Lodbrok",
     "Kraka",
     "Ivaldi",
     "Nordri",
@@ -4757,11 +4757,11 @@
     "Han Solo|Han",
     "Princess Leia|Leia|Leia Organa",
     "Yoda",
-    "Chewbacca|Chewie"
+    "Chewbacca|Chewie",
+    "Obi-Wan Kenobi|Obi-Wan|Ben Kenobi",
+    "R2-D2|R2D2|Artoo"
    ],
    "bait": [
-    "Obi-Wan Kenobi|Obi-Wan|Ben Kenobi",
-    "R2-D2|R2D2|Artoo",
     "C-3PO|C3PO|Threepio",
     "Grogu|Baby Yoda"
    ],
@@ -4784,12 +4784,12 @@
     "General Grievous|Grievous",
     "The Mandalorian|Mandalorian|Din Djarin|Mando",
     "Ahsoka Tano|Ahsoka",
-    "Stormtrooper"
+    "Stormtrooper",
+    "Admiral Ackbar|Ackbar",
+    "Jango Fett"
    ],
    "rare": [
-    "Jango Fett",
     "Greedo",
-    "Admiral Ackbar|Ackbar",
     "Wedge Antilles|Wedge",
     "Grand Moff Tarkin|Tarkin",
     "Snoke|Supreme Leader Snoke",
@@ -4885,10 +4885,10 @@
     "Bodhi Rook",
     "Galen Erso",
     "Luthen Rael|Luthen",
-    "Morgan Elsbeth"
+    "Morgan Elsbeth",
+    "Mara Jade"
    ],
    "leviathan": [
-    "Mara Jade",
     "Kyle Katarn",
     "Jacen Solo",
     "Jaina Solo",
@@ -4962,12 +4962,12 @@
     "Bart Simpson|Bart",
     "Marge Simpson|Marge",
     "Lisa Simpson|Lisa",
-    "Maggie Simpson|Maggie"
+    "Maggie Simpson|Maggie",
+    "Krusty the Clown|Krusty"
    ],
    "bait": [
     "Mr. Burns|Montgomery Burns",
-    "Ned Flanders|Flanders",
-    "Krusty the Clown|Krusty"
+    "Ned Flanders|Flanders"
    ],
    "shoal": [
     "Moe Szyslak|Moe",
@@ -5022,7 +5022,6 @@
     "Superintendent Chalmers|Chalmers",
     "Kang",
     "Kodos",
-    "Mona Simpson",
     "Herb Powell",
     "Squeaky-Voiced Teen",
     "Gil",
@@ -5062,7 +5061,8 @@
     "Ms. Hoover|Elizabeth Hoover",
     "Sarah Wiggum",
     "Hank Scorpio",
-    "Jessica Lovejoy"
+    "Jessica Lovejoy",
+    "Mona Simpson"
    ],
    "leviathan": [
     "Brunella Pommelhorst",
@@ -5135,7 +5135,8 @@
     "Moonwalk",
     "Bachata",
     "Merengue",
-    "Pole dance|Pole dancing"
+    "Pole dance|Pole dancing",
+    "Hula"
    ],
    "rare": [
     "Lindy Hop",
@@ -5152,7 +5153,6 @@
     "Voguing|Vogue",
     "Shuffle",
     "Tutting",
-    "Hula",
     "Bollywood",
     "Bharatanatyam",
     "Kathak",
@@ -5176,7 +5176,9 @@
     "Dancehall",
     "Afrobeat|Afro dance",
     "Burlesque",
-    "Ceroc"
+    "Ceroc",
+    "Haka",
+    "Dab"
    ],
    "deep": [
     "West Coast Swing",
@@ -5197,7 +5199,6 @@
     "Pantsula",
     "Azonto",
     "Sega",
-    "Haka",
     "Tinikling",
     "Kecak",
     "Odissi",
@@ -5241,7 +5242,13 @@
     "Csárdás|Csardas",
     "Krakowiak",
     "Schuhplattler",
-    "Ländler"
+    "Ländler",
+    "Chicken dance",
+    "Cha Cha Slide",
+    "Lion dance",
+    "Hokey cokey|Hokey pokey",
+    "Calypso",
+    "Limbo"
    ],
    "leviathan": [
     "Bomba",
@@ -5258,8 +5265,6 @@
     "Joropo",
     "Punta",
     "Kompa",
-    "Calypso",
-    "Limbo",
     "Soca",
     "Bouyon",
     "Coupé-décalé",
@@ -5307,14 +5312,10 @@
     "Madison",
     "Bus Stop",
     "Bump",
-    "Hokey cokey|Hokey pokey",
-    "Chicken dance",
     "Cupid Shuffle",
-    "Cha Cha Slide",
     "Wobble",
     "Nae nae",
     "Whip",
-    "Dab",
     "Stanky leg",
     "Renegade",
     "Bon Odori",
@@ -5328,7 +5329,6 @@
     "Zapin",
     "Joget",
     "Cham",
-    "Lion dance",
     "Dragon dance",
     "Yangge",
     "Fan dance",
@@ -5366,10 +5366,10 @@
     "Ra|Re",
     "Anubis",
     "Osiris",
-    "Isis"
+    "Isis",
+    "Horus"
    ],
    "bait": [
-    "Horus",
     "Set|Seth",
     "Bastet|Bast"
    ],

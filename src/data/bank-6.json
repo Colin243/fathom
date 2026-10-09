@@ -28,11 +28,11 @@
     "Pomeranian",
     "Dalmatian",
     "Yorkshire Terrier|Yorkie",
-    "Border Collie"
+    "Border Collie",
+    "Saint Bernard",
+    "Bernese Mountain Dog"
    ],
    "rare": [
-    "Bernese Mountain Dog",
-    "Saint Bernard",
     "Akita",
     "Basset Hound",
     "Bloodhound",
@@ -44,7 +44,10 @@
     "Schnauzer",
     "Maltese",
     "Papillon",
-    "Weimaraner"
+    "Weimaraner",
+    "Shiba Inu",
+    "Chow Chow",
+    "Mastiff"
    ],
    "deep": [
     "Vizsla",
@@ -55,11 +58,8 @@
     "Irish Setter|Setter",
     "Airedale Terrier",
     "Bichon Frise",
-    "Shiba Inu",
-    "Chow Chow",
     "Shar-Pei",
-    "Bull Terrier",
-    "Mastiff"
+    "Bull Terrier"
    ],
    "leviathan": [
     "Otterhound",
@@ -91,15 +91,14 @@
     "Megalodon"
    ],
    "shoal": [
-    "Blacktip Reef Shark|Blacktip",
     "Lemon Shark",
     "Thresher Shark|Thresher",
     "Basking Shark",
     "Goblin Shark",
-    "Blue Shark"
+    "Blue Shark",
+    "Reef Shark"
    ],
    "rare": [
-    "Reef Shark",
     "Greenland Shark",
     "Cookiecutter Shark",
     "Leopard Shark",
@@ -108,7 +107,8 @@
     "Sand Tiger Shark|Sand Shark",
     "Silky Shark",
     "Dusky Shark",
-    "Oceanic Whitetip"
+    "Oceanic Whitetip",
+    "Blacktip Reef Shark|Blacktip"
    ],
    "deep": [
     "Frilled Shark",
@@ -121,7 +121,8 @@
     "Porbeagle",
     "Salmon Shark",
     "Megamouth Shark|Megamouth",
-    "Horn Shark"
+    "Horn Shark",
+    "Whitetip Reef Shark|Whitetip"
    ],
    "leviathan": [
     "Kitefin Shark",
@@ -131,7 +132,6 @@
     "Carpet Shark",
     "Sleeper Shark",
     "Sawshark",
-    "Whitetip Reef Shark|Whitetip",
     "Smoothhound",
     "Cow Shark"
    ]
@@ -229,21 +229,22 @@
     "Praying Mantis|Mantis",
     "Termite",
     "Flea",
-    "Cicada"
+    "Cicada",
+    "Hornet",
+    "Bumblebee"
    ],
    "rare": [
     "Aphid",
     "Earwig",
     "Locust",
     "Stick Insect|Walking Stick",
-    "Hornet",
-    "Bumblebee",
     "Louse",
     "Katydid",
     "Mayfly",
     "Lacewing",
     "Silverfish",
-    "Weevil"
+    "Weevil",
+    "Dung Beetle"
    ],
    "deep": [
     "Cranefly",
@@ -253,7 +254,6 @@
     "Stonefly",
     "Caddisfly",
     "Cuckoo Wasp",
-    "Dung Beetle",
     "Water Strider",
     "Antlion",
     "Scarab",
@@ -358,9 +358,7 @@
     "Squirrel Monkey",
     "Proboscis Monkey",
     "Colobus",
-    "Tamarin",
-    "Vervet",
-    "Siamang"
+    "Tamarin"
    ],
    "rare": [
     "Rhesus Monkey|Rhesus",
@@ -375,7 +373,9 @@
     "Owl Monkey|Night Monkey",
     "Golden Lion Tamarin",
     "Emperor Tamarin",
-    "Patas Monkey"
+    "Patas Monkey",
+    "Siamang",
+    "Vervet"
    ],
    "deep": [
     "Guenon",
@@ -495,7 +495,8 @@
     "Woolly Rhinoceros|Woolly Rhino",
     "Elephant Bird",
     "Cave Bear",
-    "Carolina Parakeet"
+    "Carolina Parakeet",
+    "Dire Wolf"
    ],
    "rare": [
     "Haast's Eagle",
@@ -508,7 +509,6 @@
     "Caribbean Monk Seal",
     "Bluebuck",
     "Atlas Bear",
-    "Dire Wolf",
     "Glyptodon"
    ],
    "deep": [

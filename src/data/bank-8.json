@@ -35,10 +35,10 @@
     "garbage disposal",
     "espresso machine",
     "bread maker",
-    "deep fryer"
+    "deep fryer",
+    "Instant Pot"
    ],
    "rare": [
-    "Instant Pot",
     "griddle",
     "panini press",
     "sandwich maker",
@@ -53,10 +53,11 @@
     "milk frother",
     "electric can opener",
     "knife sharpener",
-    "steamer"
+    "steamer",
+    "rotisserie",
+    "sous vide"
    ],
    "deep": [
-    "sous vide",
     "dehydrator",
     "pasta maker",
     "yogurt maker",
@@ -66,7 +67,6 @@
     "warming drawer",
     "induction cooktop",
     "fondue pot",
-    "rotisserie",
     "bottle warmer",
     "egg cooker",
     "crepe maker",
@@ -138,7 +138,8 @@
     "suit jacket",
     "track jacket",
     "shell jacket",
-    "fur coat"
+    "fur coat",
+    "letterman jacket"
    ],
    "rare": [
     "Barbour jacket",
@@ -159,8 +160,7 @@
     "gilet",
     "safari jacket",
     "trucker jacket",
-    "flight jacket",
-    "letterman jacket"
+    "flight jacket"
    ],
    "deep": [
     "Norfolk jacket",
@@ -267,23 +267,23 @@
     "debate",
     "religion",
     "pre-calculus",
-    "world history"
+    "world history",
+    "theater",
+    "Italian",
+    "Mandarin",
+    "Japanese",
+    "driver's education",
+    "sex education"
    ],
    "deep": [
-    "driver's education",
-    "sex education",
     "robotics",
     "coding",
-    "theater",
     "etymology",
     "phonics",
     "penmanship",
     "art history",
     "astronomy",
     "geology",
-    "Mandarin",
-    "Italian",
-    "Japanese",
     "woodworking",
     "metalworking",
     "auto shop",
@@ -295,12 +295,12 @@
     "ethics",
     "anthropology",
     "linguistics",
-    "forensic science"
-   ],
-   "leviathan": [
+    "forensic science",
     "Greek",
     "Classics",
-    "calligraphy",
+    "calligraphy"
+   ],
+   "leviathan": [
     "elocution",
     "domestic science",
     "needlework",
@@ -350,7 +350,9 @@
     "rainbow sherbet",
     "orange sherbet",
     "s'mores",
-    "green tea|matcha"
+    "green tea|matcha",
+    "Oreo",
+    "pineapple"
    ],
    "rare": [
     "Cherry Garcia",
@@ -378,10 +380,11 @@
     "lavender",
     "blueberry cheesecake",
     "key lime pie",
-    "red velvet"
+    "red velvet",
+    "bubblegum",
+    "white chocolate"
    ],
    "deep": [
-    "bubblegum",
     "superman",
     "nutella",
     "hazelnut",
@@ -391,8 +394,6 @@
     "pralines and cream",
     "mocha almond fudge",
     "toasted almond",
-    "white chocolate",
-    "Oreo",
     "Heath bar crunch",
     "banana split",
     "sweet cream",
@@ -401,7 +402,6 @@
     "ube",
     "black sesame",
     "tahini",
-    "pineapple",
     "kulfi",
     "passion fruit",
     "pecan praline",
@@ -502,7 +502,10 @@
     "brad",
     "paper tray",
     "name tag",
-    "desk lamp"
+    "desk lamp",
+    "sharpie",
+    "ballpoint pen",
+    "gel pen"
    ],
    "deep": [
     "bulldog clip",
@@ -510,7 +513,6 @@
     "date stamp",
     "rubber stamp",
     "hanging file",
-    "sharpie",
     "transparency film",
     "overhead projector",
     "cardstock",
@@ -527,8 +529,6 @@
     "flip chart",
     "easel pad",
     "erasable pen",
-    "gel pen",
-    "ballpoint pen",
     "felt tip pen",
     "expanding file"
    ],
@@ -598,10 +598,10 @@
     "jet",
     "carnelian",
     "spinel",
-    "malachite"
+    "malachite",
+    "rose quartz"
    ],
    "rare": [
-    "rose quartz",
     "smoky quartz",
     "sunstone",
     "labradorite",
@@ -658,7 +658,9 @@
     "jeremejevite",
     "tugtupite",
     "ametrine",
-    "ammolite"
+    "ammolite",
+    "fire opal",
+    "black opal"
    ],
    "leviathan": [
     "red beryl",
@@ -680,9 +682,7 @@
     "sillimanite",
     "bustamite",
     "clinohumite",
-    "fire opal",
     "boulder opal",
-    "black opal",
     "lechleitnerite"
    ]
   }
@@ -771,7 +771,8 @@
     "pizza margherita",
     "stracciatella soup",
     "spaghetti alle vongole",
-    "linguine al pesto"
+    "linguine al pesto",
+    "granita"
    ],
    "deep": [
     "trippa alla fiorentina",
@@ -812,7 +813,8 @@
     "pasta e ceci",
     "spaghetti alla chitarra",
     "pizza al taglio",
-    "granita"
+    "piadina",
+    "paccheri"
    ],
    "leviathan": [
     "trenette al pesto",
@@ -830,8 +832,6 @@
     "cuccìa",
     "sanguinaccio",
     "pasta allo scarpariello",
-    "paccheri",
-    "piadina",
     "crescentine",
     "gnocco fritto",
     "tigelle",
@@ -993,7 +993,9 @@
     "undhiyu",
     "khandvi",
     "fafda",
-    "ghughra"
+    "ghughra",
+    "kathi roll",
+    "gobi Manchurian"
    ],
    "leviathan": [
     "kosha mangsho",
@@ -1007,11 +1009,9 @@
     "sukto",
     "ghugni",
     "jhal muri",
-    "kathi roll",
     "Bombay sandwich",
     "ragda pattice",
     "chicken 65",
-    "gobi Manchurian",
     "Lucknowi biryani",
     "Awadhi biryani",
     "Kolkata biryani",

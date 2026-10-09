@@ -40,7 +40,8 @@
     "Vanity|Dressing table",
     "Filing cabinet",
     "Beanbag|Beanbag chair",
-    "Sofa bed|Sleeper sofa|Pull-out couch"
+    "Sofa bed|Sleeper sofa|Pull-out couch",
+    "Cupboard"
    ],
    "rare": [
     "Credenza",
@@ -129,7 +130,6 @@
     "Pie safe",
     "Dry sink",
     "Jelly cupboard",
-    "Cupboard",
     "Linen press",
     "Tester bed",
     "Sleigh bed",
@@ -586,7 +586,9 @@
     "Ski hat|Bobble hat|Pom-pom hat",
     "Sailor hat|Dixie cup",
     "Dunce cap",
-    "Boater|Straw boater"
+    "Boater|Straw boater",
+    "Bandana|Bandanna",
+    "Santa hat"
    ],
    "rare": [
     "Deerstalker",
@@ -597,7 +599,6 @@
     "Pith helmet|Safari helmet",
     "Balaclava",
     "Earflap hat|Trapper hat|Ushanka",
-    "Bandana|Bandanna",
     "Headscarf",
     "Skullcap",
     "Kippah|Yarmulke",
@@ -651,9 +652,9 @@
     "Gatsby cap",
     "Driving cap|Ivy cap",
     "Leprechaun hat",
-    "Santa hat",
     "Sorting hat",
-    "Tin foil hat"
+    "Tin foil hat",
+    "Stovepipe hat|Stovepipe"
    ],
    "deep": [
     "Borsalino",
@@ -711,7 +712,6 @@
     "Gamsbart",
     "Bollinger",
     "Billycock",
-    "Stovepipe hat|Stovepipe",
     "Opera hat|Gibus|Collapsible top hat",
     "Chapeau claque",
     "Topper",
@@ -749,7 +749,8 @@
     "Capirote",
     "Galero",
     "Camauro",
-    "Saturno"
+    "Saturno",
+    "Pickelhaube"
    ],
    "leviathan": [
     "Pileolus",
@@ -784,7 +785,6 @@
     "Kepi-blanc",
     "Chapka",
     "Czapka",
-    "Pickelhaube",
     "Morion",
     "Cabasset",
     "Sallet",
@@ -1022,7 +1022,9 @@
     "Ghost white",
     "Lemon chiffon",
     "Old lace",
-    "Antique white"
+    "Antique white",
+    "Baby pink",
+    "Vanilla"
    ],
    "deep": [
     "Gamboge",
@@ -1118,7 +1120,6 @@
     "Celestial blue",
     "Ice blue",
     "Arctic blue",
-    "Baby pink",
     "Pastel pink",
     "Pastel blue",
     "Ultra violet",
@@ -1154,7 +1155,6 @@
     "Sunflower",
     "Daffodil",
     "Dandelion",
-    "Vanilla",
     "Cornsilk",
     "Blanched almond",
     "Papaya whip",
@@ -1383,7 +1383,8 @@
     "Rectangle",
     "Star",
     "Heart",
-    "Oval"
+    "Oval",
+    "Diamond"
    ],
    "bait": [
     "Rhombus",
@@ -1393,7 +1394,6 @@
     "Trapezoid|Trapezium"
    ],
    "shoal": [
-    "Diamond",
     "Parallelogram",
     "Cube",
     "Sphere",
@@ -1484,7 +1484,12 @@
     "Blob",
     "Cloud",
     "Lightning bolt",
-    "Horseshoe"
+    "Horseshoe",
+    "Yin yang",
+    "Fleur-de-lis",
+    "Parabola",
+    "Mandala",
+    "Pentacle"
    ],
    "deep": [
     "Deltoid",
@@ -1505,7 +1510,6 @@
     "Trochoid",
     "Rose curve",
     "Spirograph",
-    "Parabola",
     "Hyperbola",
     "Catenary",
     "Lemniscate of Bernoulli",
@@ -1606,18 +1610,14 @@
     "Borromean rings",
     "Triquetra",
     "Celtic knot",
-    "Yin yang",
-    "Fleur-de-lis",
     "Crescent and star",
     "Maltese cross",
     "Celtic cross",
     "Saltire",
-    "Pentacle",
     "Seal of Solomon",
     "Flower of Life",
     "Seed of Life",
     "Sri Yantra",
-    "Mandala",
     "Ogee",
     "Ogive",
     "Gothic arch",
@@ -1774,7 +1774,8 @@
     "Pascal",
     "Mole",
     "Ohm",
-    "Kilowatt-hour|kWh"
+    "Kilowatt-hour|kWh",
+    "Month"
    ],
    "rare": [
     "Milligram|mg",
@@ -1788,7 +1789,6 @@
     "Century",
     "Millennium",
     "Fortnight",
-    "Month",
     "Furlong",
     "League",
     "Nautical mile",
@@ -1890,7 +1890,10 @@
     "Score",
     "Baker's dozen",
     "Pair",
-    "Bale"
+    "Bale",
+    "Football field",
+    "Richter",
+    "Olympic swimming pool"
    ],
    "deep": [
     "Siemens",
@@ -2066,8 +2069,6 @@
     "Furlong per fortnight",
     "Garn",
     "Wiffle",
-    "Football field",
-    "Olympic swimming pool",
     "Blue whale",
     "Double-decker bus",
     "Banana equivalent dose",
@@ -2094,7 +2095,6 @@
     "Eötvös|Eotvos",
     "Galileo",
     "Mercalli",
-    "Richter",
     "Beaufort",
     "Fujita",
     "Saffir-Simpson",
@@ -2216,7 +2216,8 @@
     "Punjabi",
     "Hawaiian",
     "Icelandic",
-    "Romanian"
+    "Romanian",
+    "Zulu"
    ],
    "rare": [
     "Tamil",
@@ -2273,7 +2274,6 @@
     "Manx",
     "Luxembourgish",
     "Afrikaans",
-    "Zulu",
     "Xhosa",
     "Yoruba",
     "Igbo",
@@ -2400,7 +2400,8 @@
     "Volapük|Volapuk",
     "Interlingua",
     "Ido",
-    "Toki Pona"
+    "Toki Pona",
+    "Valyrian|High Valyrian"
    ],
    "deep": [
     "Sorbian",
@@ -2751,10 +2752,12 @@
     "Toda",
     "Dhivehi|Maldivian",
     "Vedda",
-    "Siddi"
+    "Siddi",
+    "Vulcan",
+    "Parseltongue",
+    "Etruscan"
    ],
    "leviathan": [
-    "Etruscan",
     "Oscan",
     "Umbrian",
     "Faliscan",
@@ -2861,8 +2864,6 @@
     "Simlish",
     "Huttese",
     "Mando'a",
-    "Parseltongue",
-    "Valyrian|High Valyrian",
     "Atlantean",
     "Kryptonian",
     "Minionese",
@@ -2873,7 +2874,6 @@
     "Adûnaic",
     "Rohirric",
     "Goa'uld",
-    "Vulcan",
     "Romulan",
     "Ferengi",
     "Kesh"
@@ -2927,7 +2927,9 @@
     "Basketball shoe",
     "Golf shoe",
     "Bowling shoe",
-    "Ski boot"
+    "Ski boot",
+    "Ugg boot|Uggs",
+    "Birkenstock"
    ],
    "rare": [
     "Brogue|Wingtip",
@@ -2938,7 +2940,6 @@
     "Desert boot",
     "Doc Martens|Dr. Martens|Docs",
     "Timberland|Timbs",
-    "Ugg boot|Uggs",
     "Mukluk",
     "Kitten heel",
     "Peep-toe",
@@ -2948,7 +2949,6 @@
     "Ankle strap",
     "Gladiator sandal",
     "Huarache",
-    "Birkenstock",
     "Jelly shoe|Jellies",
     "Kitten heel pump|Court shoe",
     "Penny loafer",
@@ -4323,8 +4323,6 @@
     "Symbol",
     "Webdings",
     "Consolas",
-    "Menlo",
-    "Monaco",
     "Lato",
     "Montserrat",
     "Poppins",
@@ -4612,7 +4610,9 @@
     "Apple Color Emoji",
     "Noto Color Emoji",
     "Twemoji",
-    "Marlett"
+    "Marlett",
+    "Menlo",
+    "Monaco"
    ],
    "deep": [
     "Aldus",
@@ -5274,7 +5274,9 @@
     "Shahtoosh",
     "Qiviut",
     "Yak wool",
-    "Cotton candy"
+    "Cotton candy",
+    "Jean",
+    "Plush"
    ],
    "deep": [
     "Bombazine",
@@ -5321,7 +5323,6 @@
     "Hopsack",
     "Huckaback",
     "Jaconet",
-    "Jean",
     "Kersey",
     "Lisle",
     "Linsey-woolsey",
@@ -5343,7 +5344,6 @@
     "Peau de soie",
     "Percaline",
     "Plissé",
-    "Plush",
     "Pongee silk",
     "Ponte|Ponte di Roma",
     "Rep|Repp",
@@ -5744,7 +5744,8 @@
     "Mathophobia|Fear of math",
     "Graphophobia|Fear of writing",
     "Lalophobia|Fear of speaking",
-    "Gelotophobia|Fear of being laughed at"
+    "Gelotophobia|Fear of being laughed at",
+    "Islamophobia"
    ],
    "deep": [
     "Acarophobia|Fear of mites",
@@ -5760,7 +5761,6 @@
     "Russophobia",
     "Japanophobia",
     "Hispanophobia",
-    "Islamophobia",
     "Judeophobia",
     "Ankylophobia|Fear of immobility",
     "Apotemnophobia|Fear of amputees",
@@ -5977,9 +5977,7 @@
     "Bowline on a bight",
     "Running bowline",
     "Timber hitch",
-    "Prusik knot|Prusik",
     "Butterfly knot|Alpine butterfly",
-    "Constrictor knot",
     "Celtic knot",
     "Pretzel"
    ],
@@ -6153,7 +6151,9 @@
     "Distel hitch",
     "Blake's hitch",
     "Valdotain tresse|VT",
-    "Schwabisch hitch"
+    "Schwabisch hitch",
+    "Prusik knot|Prusik",
+    "Constrictor knot"
    ],
    "deep": [
     "Adjustable grip hitch",
@@ -6861,7 +6861,9 @@
     "Cupid Shuffle",
     "Cha Cha Slide",
     "Gangnam Style",
-    "Stomp|Stepping|Step dance"
+    "Stomp|Stepping|Step dance",
+    "Twist",
+    "Cancan"
    ],
    "rare": [
     "Jive",
@@ -6904,7 +6906,6 @@
     "Lion dance",
     "Dragon dance",
     "Fan dance",
-    "Cancan",
     "Bolero",
     "Fandango",
     "Jota",
@@ -7001,7 +7002,6 @@
     "Cabbage Patch",
     "Roger Rabbit",
     "Mashed Potato",
-    "Twist",
     "Locomotion",
     "Hand jive",
     "Stroll",

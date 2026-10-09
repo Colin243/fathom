@@ -28,11 +28,11 @@
     "Fulham",
     "Brentford",
     "Burnley",
-    "Nottingham Forest"
+    "Nottingham Forest",
+    "Bournemouth|AFC Bournemouth"
    ],
    "rare": [
     "Sunderland",
-    "Bournemouth|AFC Bournemouth",
     "Watford",
     "West Bromwich Albion|West Brom",
     "Norwich City|Norwich",
@@ -41,31 +41,31 @@
     "Middlesbrough",
     "Sheffield United",
     "Cardiff City|Cardiff",
-    "Huddersfield Town|Huddersfield"
+    "Huddersfield Town|Huddersfield",
+    "Ipswich Town|Ipswich",
+    "Portsmouth"
    ],
    "deep": [
     "Blackburn Rovers|Blackburn",
     "Bolton Wanderers|Bolton",
     "Wigan Athletic|Wigan",
-    "Portsmouth",
     "Hull City|Hull",
     "Birmingham City|Birmingham",
     "Queens Park Rangers|QPR",
     "Derby County|Derby",
     "Charlton Athletic|Charlton",
     "Coventry City|Coventry",
-    "Ipswich Town|Ipswich",
-    "Reading"
+    "Reading",
+    "Luton Town|Luton",
+    "Wimbledon",
+    "Sheffield Wednesday"
    ],
    "leviathan": [
     "Blackpool",
     "Oldham Athletic|Oldham",
     "Swindon Town|Swindon",
     "Barnsley",
-    "Bradford City|Bradford",
-    "Wimbledon",
-    "Luton Town|Luton",
-    "Sheffield Wednesday"
+    "Bradford City|Bradford"
    ]
   }
  },
@@ -103,7 +103,9 @@
     "H&M",
     "Zara",
     "Uniqlo",
-    "Ralph Lauren|Polo"
+    "Ralph Lauren|Polo",
+    "Crocs",
+    "Shein"
    ],
    "rare": [
     "Hollister",
@@ -128,13 +130,16 @@
     "Prada",
     "Balenciaga",
     "Versace",
-    "Burberry"
+    "Burberry",
+    "Birkenstock",
+    "UGG",
+    "Dr. Martens|Doc Martens",
+    "Hanes",
+    "Fruit of the Loom",
+    "Forever 21",
+    "Urban Outfitters"
    ],
    "deep": [
-    "Crocs",
-    "Birkenstock",
-    "Dr. Martens|Doc Martens",
-    "UGG",
     "Keds",
     "Sperry",
     "Clarks",
@@ -145,18 +150,16 @@
     "On Running|On",
     "Salomon",
     "Merrell",
-    "Hanes",
-    "Fruit of the Loom",
     "Gildan",
     "Eddie Bauer",
     "L.L.Bean|LL Bean",
     "J.Crew",
     "Banana Republic",
     "Anthropologie",
-    "Urban Outfitters",
-    "Forever 21",
     "Fashion Nova",
-    "Shein"
+    "Fred Perry",
+    "Allbirds",
+    "Brooks Brothers"
    ],
    "leviathan": [
     "Onitsuka Tiger",
@@ -165,14 +168,11 @@
     "Gola",
     "Ellesse",
     "Sergio Tacchini",
-    "Fred Perry",
     "Pony",
     "Etonic",
     "K-Swiss",
     "Lotto",
     "Hummel",
-    "Brooks Brothers",
-    "Allbirds",
     "Veja"
    ]
   }
@@ -215,18 +215,18 @@
     "Nintendogs",
     "Brain Age",
     "F-Zero",
-    "Punch-Out!!|Punch-Out"
-   ],
-   "rare": [
+    "Punch-Out!!|Punch-Out",
     "Super Mario Odyssey",
     "Super Mario Galaxy",
+    "Wind Waker"
+   ],
+   "rare": [
     "Super Mario Sunshine",
     "Super Mario 3D World",
     "New Super Mario Bros.",
     "Link's Awakening",
     "A Link to the Past",
     "Twilight Princess",
-    "Wind Waker",
     "Skyward Sword",
     "Metroid Prime",
     "Super Metroid",
@@ -239,7 +239,9 @@
     "Ring Fit Adventure",
     "1-2-Switch",
     "Arms",
-    "Pilotwings"
+    "Pilotwings",
+    "Tetris",
+    "GoldenEye 007|GoldenEye"
    ],
    "deep": [
     "Earthbound",
@@ -249,7 +251,6 @@
     "Mario & Luigi",
     "Pokémon Snap|Pokemon Snap",
     "Pokémon Stadium|Pokemon Stadium",
-    "Tetris",
     "Dr. Mario",
     "Balloon Fight",
     "Clu Clu Land",
@@ -267,14 +268,14 @@
     "Mario Paint",
     "Yoshi's Story",
     "Banjo-Kazooie",
-    "GoldenEye 007|GoldenEye",
     "Perfect Dark",
     "Diddy Kong Racing",
     "Bayonetta",
-    "Astral Chain"
+    "Astral Chain",
+    "Wii Play",
+    "Kid Icarus Uprising"
    ],
    "leviathan": [
-    "Kid Icarus Uprising",
     "Cubivore",
     "Custom Robo",
     "Eternal Darkness",
@@ -286,7 +287,6 @@
     "The Last Story",
     "Tingle's Rosy Rupeeland",
     "Famicom Detective Club",
-    "Wii Play",
     "Metroid Prime Hunters",
     "Mole Mania",
     "Urban Champion",
@@ -334,10 +334,12 @@
     "EDM",
     "Trap",
     "Opera",
-    "Bluegrass"
+    "Bluegrass",
+    "Hard Rock",
+    "Salsa",
+    "Reggaeton"
    ],
    "rare": [
-    "Salsa",
     "Bossa Nova",
     "Dancehall",
     "Drum and Bass|Drum & Bass",
@@ -352,7 +354,6 @@
     "Bebop",
     "Motown",
     "Afrobeats",
-    "Reggaeton",
     "Lo-Fi|Lofi",
     "Garage",
     "Grime",
@@ -362,20 +363,20 @@
     "Progressive Rock|Prog Rock",
     "Glam Rock",
     "Soft Rock",
-    "Hard Rock",
     "Surf Rock",
     "Doo-Wop",
     "Gangsta Rap",
     "Death Metal",
     "Thrash Metal",
-    "Black Metal"
+    "Black Metal",
+    "Baroque",
+    "Tango"
    ],
    "deep": [
     "Zydeco",
     "Cumbia",
     "Merengue",
     "Bachata",
-    "Tango",
     "Flamenco",
     "Fado",
     "Calypso",
@@ -386,7 +387,6 @@
     "Polka",
     "Klezmer",
     "Gregorian Chant",
-    "Baroque",
     "Minimalism",
     "Chillwave",
     "Vaporwave",
@@ -403,7 +403,9 @@
     "Acid Jazz",
     "Neo-Soul",
     "Chiptune",
-    "Hyperpop"
+    "Hyperpop",
+    "Bhangra",
+    "Doom Metal"
    ],
    "leviathan": [
     "Mbalax",
@@ -414,7 +416,6 @@
     "City Pop",
     "Cowpunk",
     "Sludge Metal",
-    "Doom Metal",
     "Gabber",
     "Happy Hardcore",
     "Breakcore",
@@ -423,7 +424,6 @@
     "Zouk",
     "Soukous",
     "Juju",
-    "Bhangra",
     "Carnatic",
     "Hindustani"
    ]
@@ -440,10 +440,10 @@
     "Microsoft",
     "Amazon",
     "Meta|Facebook",
-    "Tesla"
+    "Tesla",
+    "Samsung"
    ],
    "bait": [
-    "Samsung",
     "Intel",
     "IBM",
     "Netflix",
@@ -474,7 +474,8 @@
     "Lenovo",
     "Asus",
     "Acer",
-    "Huawei"
+    "Huawei",
+    "Nintendo"
    ],
    "rare": [
     "Shopify",
@@ -503,14 +504,14 @@
     "Baidu",
     "ByteDance",
     "Rivian",
-    "SpaceX"
+    "SpaceX",
+    "Nokia",
+    "Motorola",
+    "Atari"
    ],
    "deep": [
-    "Atari",
     "Commodore",
-    "Nokia",
     "BlackBerry",
-    "Motorola",
     "Palm",
     "Compaq",
     "Gateway",
@@ -541,7 +542,8 @@
     "Logitech",
     "Razer",
     "Corsair",
-    "Nintendo"
+    "Theranos",
+    "WeWork"
    ],
    "leviathan": [
     "Be Inc",
@@ -557,8 +559,6 @@
     "Novell",
     "Netflix DVD",
     "Zynga",
-    "Theranos",
-    "WeWork",
     "Vine",
     "Clubhouse",
     "Friendster",
@@ -580,12 +580,12 @@
     "Wonder Woman",
     "The Flash|Flash",
     "Joker|The Joker",
-    "Aquaman"
+    "Aquaman",
+    "Harley Quinn"
    ],
    "bait": [
     "Green Lantern",
     "Robin",
-    "Harley Quinn",
     "Catwoman",
     "Lex Luthor",
     "Supergirl"
@@ -643,7 +643,12 @@
     "Amanda Waller",
     "Steppenwolf",
     "Mera",
-    "Static Shock|Static"
+    "Static Shock|Static",
+    "Hal Jordan",
+    "Rorschach",
+    "Doctor Manhattan",
+    "Lobo",
+    "Red Hood"
    ],
    "deep": [
     "Red Tornado",
@@ -653,7 +658,6 @@
     "Vixen",
     "Katana",
     "Huntress",
-    "Red Hood",
     "Azrael",
     "Damian Wayne",
     "Kid Flash",
@@ -664,14 +668,11 @@
     "Doctor Fate",
     "Spectre|The Spectre",
     "Question|The Question",
-    "Rorschach",
-    "Doctor Manhattan",
     "Ozymandias",
     "Nite Owl",
     "Silk Spectre",
     "Etrigan",
     "Deadman",
-    "Lobo",
     "Mr. Mxyzptlk|Mxyzptlk",
     "Bizarro",
     "Parasite",
@@ -692,13 +693,13 @@
     "Mongul",
     "Ares",
     "Circe",
-    "Giganta"
+    "Giganta",
+    "Krypto"
    ],
    "leviathan": [
     "Detective Chimp",
     "Ambush Bug",
     "Ace the Bat-Hound",
-    "Krypto",
     "Comet the Super-Horse",
     "Congorilla",
     "Elasti-Girl",
@@ -714,7 +715,6 @@
     "Orion",
     "Granny Goodness",
     "Kilowog",
-    "Hal Jordan",
     "John Stewart",
     "Guy Gardner",
     "Kyle Rayner"
@@ -762,17 +762,17 @@
     "Pickleball",
     "Wiffle Ball",
     "Cornhole",
-    "Skee-Ball"
+    "Skee-Ball",
+    "Aussie Rules|Australian Rules Football",
+    "Beach Volleyball"
    ],
    "rare": [
-    "Aussie Rules|Australian Rules Football",
     "Gaelic Football",
     "Hurling",
     "Sepak Takraw",
     "Jai Alai",
     "Fives",
     "Real Tennis",
-    "Beach Volleyball",
     "Beach Soccer",
     "Futsal",
     "Rounders",
@@ -788,7 +788,13 @@
     "Footvolley",
     "Teqball",
     "Racketball",
-    "Paddle Tennis|Padel"
+    "Paddle Tennis|Padel",
+    "Rugby League",
+    "Rugby Union",
+    "Rugby Sevens",
+    "Quidditch",
+    "Touch Football",
+    "Flag Football"
    ],
    "deep": [
     "Pelota",
@@ -803,7 +809,6 @@
     "Tenpin Bowling",
     "Carom Billiards",
     "Bossaball",
-    "Quidditch",
     "Underwater Rugby",
     "Pushball",
     "Kin-Ball",
@@ -825,11 +830,6 @@
     "Pall-Mall",
     "Trugo",
     "Sipa",
-    "Rugby League",
-    "Rugby Union",
-    "Rugby Sevens",
-    "Touch Football",
-    "Flag Football",
     "Tag Rugby",
     "Speedball",
     "Throwball",
@@ -875,15 +875,15 @@
     "Quora",
     "Vine",
     "MySpace",
-    "Flickr"
+    "Flickr",
+    "Skype",
+    "Bumble",
+    "Hinge"
    ],
    "rare": [
-    "Bumble",
-    "Hinge",
     "Clubhouse",
     "Yik Yak",
     "Kik",
-    "Skype",
     "Viber",
     "Line",
     "KakaoTalk",
@@ -908,12 +908,15 @@
     "Meetup",
     "Foursquare",
     "Periscope",
-    "Vimeo"
+    "Vimeo",
+    "Club Penguin",
+    "Neopets",
+    "SoundCloud",
+    "Google+|Google Plus"
    ],
    "deep": [
     "Friendster",
     "Orkut",
-    "Google+|Google Plus",
     "Bebo",
     "Digg",
     "Delicious",
@@ -934,8 +937,6 @@
     "Mixi",
     "Gaia Online",
     "Habbo",
-    "Club Penguin",
-    "Neopets",
     "Foursquare Swarm",
     "Untappd",
     "Pocket",
@@ -946,8 +947,9 @@
     "Newgrounds",
     "Wattpad",
     "Last.fm",
-    "SoundCloud",
-    "Bandcamp"
+    "Bandcamp",
+    "Second Life",
+    "Webkinz"
    ],
    "leviathan": [
     "Wretch",
@@ -964,9 +966,7 @@
     "Lasso",
     "Fotolog",
     "Windows Live Spaces",
-    "Piczo",
-    "Webkinz",
-    "Second Life"
+    "Piczo"
    ]
   }
  }
