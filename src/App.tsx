@@ -2,7 +2,7 @@ import { useCallback, useEffect, useRef, useState, type CSSProperties, type Form
 import { Ocean, PPM, type OceanHandle } from './components/Ocean'
 import { Results, type Round } from './components/Results'
 import { TierIcon } from './components/Sprite'
-import { BANK, cleanCode, freshCode, promptsForCode, todayInfo } from './lib/bank'
+import { BANK, cleanCode, displayCode, freshDive, promptsForCode, todayInfo } from './lib/bank'
 import { matchAnswer, type Prompt, type TierId } from './lib/match'
 import { sound } from './lib/sound'
 import { storage } from './lib/storage'
@@ -53,7 +53,6 @@ export default function App() {
   const [chip, setChip] = useState<string | null>(null)
   const [muted, setMuted] = useState(sound.isMuted())
   const [howTo, setHowTo] = useState(false)
-  const [codeEntry, setCodeEntry] = useState('')
   const revealAt = useRef(0)
 
   const score = rounds.reduce((s, r) => s + r.points, 0)
@@ -69,6 +68,8 @@ export default function App() {
   // Intro countdown, then the clock starts.
   useEffect(() => {
     if (phase !== 'intro') return
+    // Mark as seen once shown, so abandoned dives still count.
+    if (prompts[idx]) storage.markSeen([prompts[idx].id])
     setCountdown(INTRO_SECONDS)
     setTimeLeft(ROUND_SECONDS * 1000)
     const started = performance.now()
@@ -180,7 +181,11 @@ export default function App() {
     void ocean.current?.glide(0, 1100)
   }
 
-  const startFresh = () => start(freshCode(storage.seen()))
+  const startFresh = () => {
+    const { code: fresh, exhausted } = freshDive(storage.seen())
+    if (exhausted) storage.clearSeen() // played everything: start the cycle over
+    start(fresh)
+  }
 
   const next = useCallback(() => {
     if (phase !== 'reveal' || performance.now() - revealAt.current < 350) return
@@ -192,7 +197,6 @@ export default function App() {
       inputRef.current?.focus({ preventScroll: true })
       return
     }
-    storage.markSeen(prompts.map((p) => p.id))
     storage.recordDive(
       rounds.reduce((s, r) => s + r.points, 0),
       rounds.filter((r) => r.tier === 'leviathan').length,
@@ -254,7 +258,7 @@ export default function App() {
           <div className="title-panel">
             {challenge && (
               <div className="challenge">
-                <span>a friend sent you dive</span> <b>{challenge.startsWith('DAY-') ? `daily ${challenge.slice(4)}` : challenge}</b>
+                <span>a friend sent you dive</span> <b>{displayCode(challenge)}</b>
               </div>
             )}
             <button className="howto-toggle" onClick={() => setHowTo(!howTo)} aria-expanded={howTo}>
@@ -267,7 +271,7 @@ export default function App() {
                 <li>Obvious answers float. Rare ones sink you deeper.</li>
                 <li>The clever pick? Everyone else thought of it too.</li>
                 <li>Every point sinks you {METRES_PER_POINT} metres. {(ROUNDS * 100).toLocaleString()} points reaches the trench floor.</li>
-                <li>No daily limit. Dive as often as you like, and send friends your dive code.</li>
+                <li>No daily limit. Dive as often as you like. Prompts won't repeat until you've seen them all.</li>
               </ul>
             )}
             <button className="big-btn" onClick={() => (challenge ? start(challenge) : startFresh())}>
@@ -286,28 +290,6 @@ export default function App() {
                 </button>
               </div>
             </div>
-            <form
-              className="code-form"
-              onSubmit={(e) => {
-                e.preventDefault()
-                const c = cleanCode(codeEntry)
-                if (c) start(c)
-              }}
-            >
-              <input
-                value={codeEntry}
-                onChange={(e) => setCodeEntry(e.target.value.toUpperCase())}
-                placeholder="friend's dive code"
-                aria-label="Dive code"
-                maxLength={24}
-                autoCapitalize="characters"
-                autoComplete="off"
-                spellCheck={false}
-              />
-              <button className="small-btn" disabled={!cleanCode(codeEntry)}>
-                join ↵
-              </button>
-            </form>
           </div>
         </main>
       )}

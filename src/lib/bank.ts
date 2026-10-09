@@ -40,20 +40,41 @@ export function randomCode(): string {
 
 export function cleanCode(raw: string | null | undefined): string | null {
   if (!raw) return null
-  const code = raw.toUpperCase().replace(/[^A-Z0-9-]/g, '')
-  return code.length >= 3 && code.length <= 24 ? code : null
+  const code = raw.trim().toUpperCase().replace(/[^A-Z0-9.-]/g, '')
+  return code.length >= 3 && code.length <= 120 ? code : null
 }
 
-// Deterministic: the same code always gives the same prompts (for a given bank),
-// so friends can share a code and play the identical dive.
-export function promptsForCode(code: string): Prompt[] {
-  const rand = mulberry32(hash(code))
-  const pool = [...BANK]
-  for (let i = pool.length - 1; i > 0; i--) {
+// A list code names its prompts outright ("P.FD-03.NS-11..."), so a shared
+// link keeps working even after prompts are added to the bank.
+const LIST_PREFIX = 'P.'
+const byId = new Map(BANK.map((p) => [p.id.toUpperCase(), p]))
+
+function shuffle<T>(list: T[], rand: () => number): T[] {
+  const out = [...list]
+  for (let i = out.length - 1; i > 0; i--) {
     const j = Math.floor(rand() * (i + 1))
-    ;[pool[i], pool[j]] = [pool[j], pool[i]]
+    ;[out[i], out[j]] = [out[j], out[i]]
   }
-  // Keep a dive varied: at most two prompts from one category when possible.
+  return out
+}
+
+// Deterministic: the same code always gives the same prompts, so friends can
+// share a code and play the identical dive.
+export function promptsForCode(code: string): Prompt[] {
+  if (code.startsWith(LIST_PREFIX)) {
+    const listed = code
+      .slice(LIST_PREFIX.length)
+      .split('.')
+      .map((id) => byId.get(id))
+      .filter((p): p is Prompt => !!p)
+    if (listed.length === ROUNDS) return listed
+    return pickVaried([...listed, ...shuffle(BANK, mulberry32(hash(code))).filter((p) => !listed.includes(p))])
+  }
+  return pickVaried(shuffle(BANK, mulberry32(hash(code))))
+}
+
+// Keep a dive varied: at most two prompts from one category when possible.
+function pickVaried(pool: Prompt[]): Prompt[] {
   const picked: Prompt[] = []
   const perCategory = new Map<string, number>()
   for (const p of pool) {
@@ -70,20 +91,33 @@ export function promptsForCode(code: string): Prompt[] {
   return picked
 }
 
-// Pick a fresh code whose prompts overlap least with what this player has seen.
-export function freshCode(seen: Set<string>): string {
-  let best = randomCode()
-  let bestSeen = Infinity
-  for (let i = 0; i < 40; i++) {
-    const code = randomCode()
-    const overlap = promptsForCode(code).filter((p) => seen.has(p.id)).length
-    if (overlap < bestSeen) {
-      best = code
-      bestSeen = overlap
-      if (overlap === 0) break
-    }
+function cryptoRand(): number {
+  const buf = new Uint32Array(1)
+  crypto.getRandomValues(buf)
+  return buf[0] / 4294967296
+}
+
+// A fresh dive drawn only from prompts this player hasn't seen. Returns
+// exhausted=true when fewer than a full dive remain, so the caller can reset.
+export function freshDive(seen: Set<string>): { code: string; exhausted: boolean } {
+  const unseen = BANK.filter((p) => !seen.has(p.id))
+  const exhausted = unseen.length < ROUNDS
+  const pool = exhausted ? BANK : unseen
+  const picked = pickVaried(shuffle(pool, cryptoRand))
+  return { code: LIST_PREFIX + picked.map((p) => p.id.toUpperCase()).join('.'), exhausted }
+}
+
+// Short, readable tag for any code (list codes are long).
+export function displayCode(code: string): string {
+  if (code.startsWith('DAY-')) return `daily ${code.slice(4)}`
+  if (!code.startsWith(LIST_PREFIX)) return code
+  let h = hash(code)
+  let s = ''
+  for (let i = 0; i < CODE_LENGTH; i++) {
+    s += CODE_ALPHABET[h % CODE_ALPHABET.length]
+    h = Math.floor(h / CODE_ALPHABET.length)
   }
-  return best
+  return s
 }
 
 const LAUNCH = Date.UTC(2026, 9, 8)

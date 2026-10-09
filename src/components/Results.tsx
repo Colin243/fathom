@@ -1,5 +1,6 @@
 import { useMemo, useState, type CSSProperties } from 'react'
 import { TIER_ORDER, type Prompt, type TierId } from '../lib/match'
+import { displayCode } from '../lib/bank'
 import { storage } from '../lib/storage'
 import { BANDS, MAX_DEPTH, METRES_PER_POINT, MISS, ROUNDS, TIERS, bandFor } from '../lib/tiers'
 import { TierIcon } from './Sprite'
@@ -95,7 +96,7 @@ export function Results({ rounds, code, dailyNumber, onAgain, onToday }: Props) 
   const [copied, setCopied] = useState<'result' | 'link' | null>(null)
 
   const link = `${location.origin}${location.pathname}?dive=${encodeURIComponent(code)}`
-  const label = dailyNumber ? `daily #${dailyNumber}` : `dive ${code}`
+  const label = dailyNumber ? `daily #${dailyNumber}` : `dive ${displayCode(code)}`
   const shareText = [
     `FATHOM · ${label}`,
     `${rounds.map((r) => (r.tier ? TIERS[r.tier].emoji : MISS.emoji)).join('')}  ${score} pts · -${(score * METRES_PER_POINT).toLocaleString()}m`,
