@@ -1,0 +1,58 @@
+[
+{"id":"d3-painter","text":"Name a famous painter","category":"knowledge","tiers":{
+"seafoam":["Leonardo da Vinci|Da Vinci|Leonardo","Vincent van Gogh|Van Gogh|Vincent","Pablo Picasso|Picasso","Claude Monet|Monet"],
+"bait":["Michelangelo","Rembrandt","Salvador Dali|Dali","Andy Warhol|Warhol"],
+"shoal":["Frida Kahlo|Kahlo","Georgia O'Keeffe|O'Keeffe","Jackson Pollock|Pollock","Edvard Munch|Munch","Raphael","Henri Matisse|Matisse","Johannes Vermeer|Vermeer"],
+"rare":["Paul Cezanne|Cezanne","Edgar Degas|Degas","Gustav Klimt|Klimt","Rene Magritte|Magritte","Francisco Goya|Goya","Titian","Caravaggio","Sandro Botticelli|Botticelli","Edward Hopper|Hopper","Paul Gauguin|Gauguin"],
+"deep":["Pierre-Auguste Renoir|Renoir","Mark Rothko|Rothko","Wassily Kandinsky|Kandinsky","Diego Velazquez|Velazquez","El Greco","Jan van Eyck|Van Eyck","Hieronymus Bosch|Bosch","Joan Miro|Miro","Marc Chagall|Chagall","Camille Pissarro|Pissarro","Egon Schiele|Schiele","Caspar David Friedrich|Friedrich"],
+"leviathan":["Artemisia Gentileschi|Gentileschi","Piero della Francesca","Giotto","Nicolas Poussin|Poussin","Pieter Bruegel|Bruegel","Tintoretto","Jean-Antoine Watteau|Watteau","Hans Holbein|Holbein","Hokusai","Paolo Uccello|Uccello"]}},
+{"id":"d3-scientist","text":"Name a famous scientist","category":"knowledge","tiers":{
+"seafoam":["Albert Einstein|Einstein","Isaac Newton|Newton","Charles Darwin|Darwin","Marie Curie|Curie"],
+"bait":["Stephen Hawking|Hawking","Galileo Galilei|Galileo","Nikola Tesla|Tesla","Louis Pasteur|Pasteur"],
+"shoal":["Thomas Edison|Edison","Carl Sagan|Sagan","Neil deGrasse Tyson|Tyson","Gregor Mendel|Mendel","Copernicus|Nicolaus Copernicus","Niels Bohr|Bohr","Alexander Fleming|Fleming"],
+"rare":["Michael Faraday|Faraday","Johannes Kepler|Kepler","Max Planck|Planck","Richard Feynman|Feynman","Robert Oppenheimer|Oppenheimer","Rosalind Franklin|Franklin","Antoine Lavoisier|Lavoisier","Dmitri Mendeleev|Mendeleev","Ada Lovelace|Lovelace","Jane Goodall|Goodall"],
+"deep":["Werner Heisenberg|Heisenberg","Erwin Schrodinger|Schrodinger","James Clerk Maxwell|Maxwell","Robert Hooke|Hooke","Robert Boyle|Boyle","Edwin Hubble|Hubble","Enrico Fermi|Fermi","Ernest Rutherford|Rutherford","Alan Turing|Turing","Linus Pauling|Pauling","Rachel Carson|Carson","Alfred Wegener|Wegener"],
+"leviathan":["Tycho Brahe|Brahe","Pierre-Simon Laplace|Laplace","Paul Dirac|Dirac","Subrahmanyan Chandrasekhar|Chandrasekhar","Lise Meitner|Meitner","Barbara McClintock|McClintock","Humphry Davy|Davy","Henrietta Leavitt|Leavitt","Ibn al-Haytham|Alhazen","Joseph Priestley|Priestley"]}},
+{"id":"d3-philosopher","text":"Name a famous philosopher","category":"knowledge","tiers":{
+"seafoam":["Socrates","Plato","Aristotle"],
+"bait":["Friedrich Nietzsche|Nietzsche","Immanuel Kant|Kant","Confucius","Rene Descartes|Descartes"],
+"shoal":["Jean-Paul Sartre|Sartre","Karl Marx|Marx","John Locke|Locke","David Hume|Hume","Thomas Hobbes|Hobbes","Voltaire","Jean-Jacques Rousseau|Rousseau"],
+"rare":["Georg Hegel|Hegel","Soren Kierkegaard|Kierkegaard","Arthur Schopenhauer|Schopenhauer","Baruch Spinoza|Spinoza","Albert Camus|Camus","John Stuart Mill|Mill","Epicurus","Lao Tzu|Laozi","Simone de Beauvoir|De Beauvoir","Thomas Aquinas|Aquinas"],
+"deep":["Ludwig Wittgenstein|Wittgenstein","Martin Heidegger|Heidegger","Gottfried Leibniz|Leibniz","George Berkeley|Berkeley","Bertrand Russell|Russell","Michel Foucault|Foucault","Diogenes","Seneca","Marcus Aurelius","Augustine|Saint Augustine","Edmund Husserl|Husserl","Hannah Arendt|Arendt"],
+"leviathan":["Parmenides","Heraclitus","Plotinus","Averroes|Ibn Rushd","Avicenna|Ibn Sina","Maimonides","Jeremy Bentham|Bentham","Thales","Zeno of Citium|Zeno","Mencius"]}},
+{"id":"d3-novel","text":"Name a famous novel","category":"knowledge","tiers":{
+"seafoam":["Pride and Prejudice","1984|Nineteen Eighty-Four","To Kill a Mockingbird","The Great Gatsby"],
+"bait":["Moby-Dick|Moby Dick","Jane Eyre","Frankenstein","Wuthering Heights"],
+"shoal":["Great Expectations","War and Peace","Don Quixote","Brave New World","The Catcher in the Rye","Animal Farm","Crime and Punishment"],
+"rare":["Les Miserables","Anna Karenina","Dracula","Ulysses","Middlemarch","Lolita","Catch-22","Heart of Darkness","Beloved","The Grapes of Wrath"],
+"deep":["The Brothers Karamazov","One Hundred Years of Solitude","Madame Bovary","The Sound and the Fury","Invisible Man","Things Fall Apart","The Stranger","The Trial","In Search of Lost Time","Vanity Fair","Tess of the d'Urbervilles","Their Eyes Were Watching God"],
+"leviathan":["Tristram Shandy","Pale Fire","The Tale of Genji","Dream of the Red Chamber","The Magic Mountain","Pamela","Absalom, Absalom!","Gravity's Rainbow","Mrs Dalloway","The Master and Margarita"]}},
+{"id":"d3-explorer","text":"Name a famous explorer","category":"knowledge","tiers":{
+"seafoam":["Christopher Columbus|Columbus","Marco Polo","Ferdinand Magellan|Magellan","Neil Armstrong|Armstrong"],
+"bait":["Lewis and Clark|Meriwether Lewis|William Clark","Captain James Cook|James Cook|Cook","Leif Erikson|Leif Ericson","Amelia Earhart|Earhart"],
+"shoal":["Vasco da Gama|Da Gama","Roald Amundsen|Amundsen","Ernest Shackleton|Shackleton","Hernan Cortes|Cortes","Sir Francis Drake|Francis Drake|Drake","Sir Edmund Hillary|Edmund Hillary|Hillary","Henry Hudson|Hudson"],
+"rare":["Robert Falcon Scott|Scott","David Livingstone|Livingstone","Ponce de Leon","Francisco Pizarro|Pizarro","Jacques Cartier|Cartier","Amerigo Vespucci|Vespucci","Henry Morton Stanley|Stanley","Ibn Battuta","Zheng He","Sir Walter Raleigh|Raleigh"],
+"deep":["Bartolomeu Dias|Dias","Hernando de Soto|De Soto","Abel Tasman|Tasman","Willem Barentsz|Barentsz","Vitus Bering|Bering","Samuel de Champlain|Champlain","Fridtjof Nansen|Nansen","Robert Peary|Peary","Mungo Park","Richard Burton|Sir Richard Burton","Juan Sebastian Elcano|Elcano","Francisco de Orellana|Orellana"],
+"leviathan":["Pytheas","Giovanni da Verrazzano|Verrazzano","John Cabot|Cabot","Alvise Cadamosto|Cadamosto","Matthew Flinders|Flinders","Alexander von Humboldt|Humboldt","Gertrude Bell|Bell","Pedro Alvares Cabral|Cabral","Francisco Vasquez de Coronado|Coronado","Hiram Bingham|Bingham"]}},
+{"id":"d3-landmark","text":"Name a famous landmark or wonder of the world","category":"knowledge","tiers":{
+"seafoam":["Great Pyramid of Giza|Pyramids|Great Pyramid","Eiffel Tower","Statue of Liberty","Great Wall of China|Great Wall"],
+"bait":["Taj Mahal","Colosseum","Machu Picchu","Stonehenge"],
+"shoal":["Big Ben","Leaning Tower of Pisa","Sydney Opera House","Golden Gate Bridge","Christ the Redeemer","Mount Rushmore","Petra"],
+"rare":["Angkor Wat","Parthenon","Acropolis","Chichen Itza","Great Sphinx|Sphinx","Tower Bridge","Sagrada Familia","Burj Khalifa","Hagia Sophia","Notre-Dame|Notre Dame"],
+"deep":["Hanging Gardens of Babylon","Colossus of Rhodes","Lighthouse of Alexandria|Pharos of Alexandria","Temple of Artemis","Mausoleum at Halicarnassus","Statue of Zeus at Olympia|Statue of Zeus","Alhambra","Neuschwanstein Castle|Neuschwanstein","Kremlin","Forbidden City","Brandenburg Gate","Mont Saint-Michel"],
+"leviathan":["Borobudur","Easter Island Moai|Moai","Pantheon","Teotihuacan","Great Zimbabwe","Ellora Caves","Meteora","Lalibela","Persepolis","Mohenjo-daro"]}},
+{"id":"d3-civilization","text":"Name an ancient civilization","category":"knowledge","tiers":{
+"seafoam":["Egyptians|Ancient Egypt|Egypt","Romans|Ancient Rome|Rome","Greeks|Ancient Greece|Greece"],
+"bait":["Mayans|Maya","Aztecs|Aztec","Incas|Inca","Mesopotamia|Sumerians"],
+"shoal":["Babylonians|Babylon","Persians|Persian Empire","Chinese|Ancient China","Vikings","Phoenicians","Indus Valley|Harappans","Assyrians"],
+"rare":["Sabaeans","Carthaginians|Carthage","Hittites","Minoans","Etruscans","Olmecs|Olmec","Celts","Mycenaeans","Nubians|Kush","Akkadians"],
+"deep":["Macedonians|Macedon","Byzantines|Byzantine Empire","Parthians","Sparta|Spartans","Thracians","Scythians","Zapotecs","Nazca","Toltecs","Moche","Phrygians","Kingdom of Aksum|Aksum"],
+"leviathan":["Elamites","Urartu","Lydians","Hurrians","Nabataeans","Chavin","Mitanni","Hohokam","Dilmun","Garamantes"]}},
+{"id":"d3-math","text":"Name a branch of mathematics","category":"knowledge","tiers":{
+"seafoam":["Algebra","Geometry","Calculus","Trigonometry"],
+"bait":["Statistics","Arithmetic","Probability","Number theory"],
+"shoal":["Topology","Linear algebra","Set theory","Combinatorics","Logic","Differential equations","Analysis"],
+"rare":["Graph theory","Game theory","Abstract algebra","Real analysis","Complex analysis","Discrete mathematics","Group theory","Differential geometry","Mathematical logic","Numerical analysis"],
+"deep":["Category theory","Measure theory","Algebraic geometry","Algebraic topology","Functional analysis","Ring theory","Galois theory","Probability theory","Optimization","Dynamical systems","Chaos theory","Information theory"],
+"leviathan":["Homological algebra","Ergodic theory","Model theory","Representation theory","Knot theory","Lie theory","Harmonic analysis","Tropical geometry","Ramsey theory","Operator theory"]}}
+]

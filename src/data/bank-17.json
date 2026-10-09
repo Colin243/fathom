@@ -1,0 +1,58 @@
+[
+{"id":"t2-food-place","text":"Name a food named after a place","category":"twist","tiers":{
+"seafoam":["Hamburger","Buffalo wings","Brussels sprouts","Swiss cheese","Cheddar","Champagne"],
+"bait":["Parmesan","Danish","Bologna","Philly cheesesteak","Brie"],
+"shoal":["Camembert","Gouda","Roquefort","Edam","Gorgonzola","Manchego","Cantaloupe","Peking duck","Boston cream pie"],
+"rare":["Baked Alaska","Kobe beef","Frankfurter","Worcestershire sauce","Dijon mustard","Genoa salami","Kalamata olives","Tabasco sauce","Cornish pasty","Yorkshire pudding","Hawaiian pizza","Cuban sandwich"],
+"deep":["Bakewell tart","Eccles cake","Chelsea bun","Bath bun","Cumberland sausage","Lancashire hotpot","Stilton","Pontefract cake","Jersey Royal potato","Bresse chicken"],
+"leviathan":["Gruyère","Taleggio","Emmental","Wensleydale","Pecorino Romano","Caerphilly"]}},
+{"id":"t2-fly-not-bird","text":"Name an animal that can fly but isn't a bird","category":"twist","tiers":{
+"seafoam":["Bat","Bee","Butterfly","Fly","Mosquito","Wasp"],
+"bait":["Dragonfly","Moth","Ladybug","Beetle","Hornet"],
+"shoal":["Grasshopper","Locust","Cicada","Firefly","Gnat","Housefly","Bumblebee","Honeybee","Horsefly"],
+"rare":["Flying fox","Pterosaur","Pteranodon","Mayfly","Lacewing","Damselfly","Crane fly","Stonefly","Botfly","Hoverfly","Sawfly"],
+"deep":["Fruit bat","Vampire bat","Tsetse fly","Blowfly","Deerfly","Caddisfly","Dobsonfly","Antlion","Katydid","Stink bug"],
+"leviathan":["Mantisfly","Snakefly","Scorpionfly","Alderfly","Fishfly","Sandfly"]}},
+{"id":"t2-country-short","text":"Name a country whose name has 6 letters or fewer","category":"twist","tiers":{
+"seafoam":["China","Japan","Italy","Spain","India","Cuba"],
+"bait":["Peru","Chad","Fiji","Iran","Egypt"],
+"shoal":["Canada","France","Greece","Brazil","Russia","Turkey","Norway","Sweden","Israel","Poland"],
+"rare":["Kenya","Ghana","Nepal","Chile","Syria","Libya","Haiti","Qatar","Yemen","Jordan","Panama","Taiwan","Kuwait","Serbia","Cyprus"],
+"deep":["Mali","Togo","Laos","Oman","Iraq","Sudan","Niger","Congo","Benin","Gabon","Malta","Angola","Uganda","Zambia","Malawi","Gambia","Rwanda","Monaco"],
+"leviathan":["Nauru","Palau","Tonga","Samoa","Brunei","Belize","Guyana"]}},
+{"id":"t2-word-zz","text":"Name a word that contains 'zz'","category":"twist","tiers":{
+"seafoam":["Pizza","Buzz","Jazz","Fizz","Dizzy","Puzzle"],
+"bait":["Blizzard","Buzzer","Fuzzy","Dazzle","Sizzle"],
+"shoal":["Drizzle","Muzzle","Nozzle","Grizzly","Jazzy","Fizzle","Pizzeria","Quizzes","Buzzard"],
+"rare":["Mozzarella","Mezzanine","Paparazzi","Pizzazz","Frizzy","Snazzy","Piazza","Embezzle","Bedazzle","Fuzz"],
+"deep":["Pizzicato","Razzmatazz","Jacuzzi","Mezzo","Abuzz","Frazzle","Swizzle","Fizzy","Gizzard","Sozzled"],
+"leviathan":["Pozzolana","Razzia","Intermezzo","Mizzenmast","Lazzi","Pizzle","Tetrazzini"]}},
+{"id":"t2-car-animal","text":"Name a car model named after an animal","category":"twist","tiers":{
+"seafoam":["Mustang","Beetle","Bronco","Viper","Cobra","Stingray","Impala"],
+"bait":["Rabbit","Pinto","Falcon","Thunderbird","Firebird","Barracuda"],
+"shoal":["Ram","Cougar","Colt","Puma","Roadrunner","Bobcat","Hornet","Fox","Lynx","Panda","Swift"],
+"rare":["Stag","Eagle","Hawk","Lark","Manta","Kodiaq","Pony","Skylark","Cricket"],
+"deep":["Murciélago","Tiger","Robin","Kitten","Seal","Dolphin","Seagull","Sea Lion","Leopard","Bug"],
+"leviathan":["Wasp","Wildcat","Monarch","Bongo","Cygnet"]}},
+{"id":"t2-olympic-city","text":"Name a city that has hosted Olympic Games events","category":"twist","tiers":{
+"seafoam":["London","Paris","Tokyo","Los Angeles","Beijing","Athens","Rio de Janeiro"],
+"bait":["Sydney","Atlanta","Barcelona","Seoul","Moscow"],
+"shoal":["Rome","Munich","Montreal","Mexico City","Berlin","Vancouver","Sochi","Salt Lake City","Calgary"],
+"rare":["Lake Placid","Helsinki","Melbourne","Amsterdam","Stockholm","Sarajevo","Lillehammer","Nagano","Turin","Pyeongchang"],
+"deep":["Innsbruck","St. Louis","Oslo","Sapporo","Albertville","Grenoble","Milan","Antwerp"],
+"leviathan":["Chamonix","Cortina d'Ampezzo","St. Moritz","Squaw Valley|Olympic Valley","Garmisch-Partenkirchen","Zhangjiakou","Qingdao","Tallinn","Weymouth","Kiel","Hong Kong"]}},
+{"id":"t2-fruit-color","text":"Name a fruit with a color in its name","category":"twist","tiers":{
+"seafoam":["Blueberry","Blackberry","Blood orange","Red grape","Green grape","Black cherry"],
+"bait":["Blackcurrant","Redcurrant","Pink Lady apple","Golden Delicious apple","Red Delicious apple"],
+"shoal":["Black raspberry","Green apple","Red apple","Black plum","Golden kiwi","Red banana","Yellow peach","White peach","Red pear"],
+"rare":["Whitecurrant","Greengage","Black mulberry","White mulberry","Red mulberry","Pink guava","Red guava","White guava","Red dragon fruit","Yellow plum"],
+"deep":["Black sapote","White sapote","Green sapote","Blue Java banana","Purple passion fruit","Yellow passion fruit","Goldenberry","Black grape","White grape","Pink grapefruit"],
+"leviathan":["Yellow dragon fruit","White dragon fruit","Redhaven peach","Black Mission fig","Brown Turkey fig","Red Williams pear"]}},
+{"id":"t2-animal-verb","text":"Name an animal whose name is also a verb","category":"twist","tiers":{
+"seafoam":["Duck","Bear","Fish","Dog","Wolf","Bug"],
+"bait":["Crow","Ape","Hawk","Seal","Bull"],
+"shoal":["Crane","Horse","Hound","Parrot","Rat","Squirrel","Weasel","Worm","Snake","Skunk","Chicken"],
+"rare":["Badger","Ferret","Hog","Clam","Cow","Fox","Swallow","Leech","Mouse","Quail","Lark","Beaver","Pig","Rabbit","Crab"],
+"deep":["Grouse","Snipe","Stag","Ram","Louse","Tick","Whale","Kid","Lamb","Gull","Rook","Flounder","Hare","Buffalo","Monkey","Bat"],
+"leviathan":["Skate","Yak","Pigeon","Swan","Cat"]}}
+]

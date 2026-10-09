@@ -1,0 +1,58 @@
+[
+{"id":"p3-cartoon-cat","text":"Name a famous cartoon cat","category":"culture","tiers":{
+"seafoam":["Garfield","Tom|Tom Cat","Felix the Cat|Felix","Sylvester","Cheshire Cat"],
+"bait":["Hello Kitty","The Cat in the Hat|Cat in the Hat","Pink Panther","Heathcliff"],
+"shoal":["Top Cat","Salem","Puss in Boots","Figaro","Lucifer","Duchess","Scratchy","Snowball","Thomas O'Malley|O'Malley"],
+"rare":["Berlioz","Toulouse","Marie","Meowth","Luna","Artemis","Azrael","Oliver","Catbert","Mr. Jinks"],
+"deep":["Nermal","Arlene","Krazy Kat","Kitty Softpaws","Pusheen","Jiji","Catbus","Benny the Ball","Choo-Choo","Fritz the Cat","Dinah","Bagheera"],
+"leviathan":["Mehitabel","Si","Am","Cat R. Waul","Danny","Spook","Brain","Hodge"]}},
+{"id":"p3-movie-villain","text":"Name a movie villain","category":"culture","tiers":{
+"seafoam":["Darth Vader","The Joker|Joker","Voldemort","Hannibal Lecter","Freddy Krueger"],
+"bait":["Scar","Thanos","Norman Bates","Cruella de Vil","Hans Gruber"],
+"shoal":["Sauron","Emperor Palpatine|Palpatine","Loki","Gaston","Ursula","Maleficent","Jafar","Agent Smith","Bane","Magneto","Dr. Evil","Jason Voorhees","Michael Myers"],
+"rare":["Anton Chigurh","Nurse Ratched","Syndrome","Lotso","Randall Boggs","Khan","Biff Tannen","Judge Doom","Pennywise","Ghostface","Annie Wilkes","Buffalo Bill","Gollum"],
+"deep":["Hades","Yzma","Dr. Facilier","Mother Gothel","Davy Jones","Lord Farquaad","Prince Hans","Frollo","Governor Ratcliffe","Clayton","Hopper","Professor Ratigan"],
+"leviathan":["Shan Yu","Frank Booth","Amon Goeth","Count Rugen","Mr. Potter","Sid Phillips","Percival McLeach","Stinky Pete"]}},
+{"id":"p3-fictional-detective","text":"Name a famous fictional detective","category":"culture","tiers":{
+"seafoam":["Sherlock Holmes","Hercule Poirot","Nancy Drew","Miss Marple","Columbo"],
+"bait":["Batman","Inspector Clouseau","Veronica Mars","Sam Spade","Philip Marlowe"],
+"shoal":["Dick Tracy","Thomas Magnum|Magnum P.I.","Jessica Fletcher","Frank Hardy|Joe Hardy","Inspector Morse","Father Brown","Encyclopedia Brown","Adrian Monk","Inspector Gadget","Harry Bosch"],
+"rare":["Kinsey Millhone","Kurt Wallander","Precious Ramotswe","Nero Wolfe","Charlie Chan","Mike Hammer","Jim Rockford","Kojak","Cormoran Strike","Benoit Blanc","Dirk Gently","Lord Peter Wimsey"],
+"deep":["C. Auguste Dupin|Auguste Dupin","Easy Rawlins","Ellery Queen","Phryne Fisher","Hamish Macbeth","Jane Tennison","Armand Gamache","Jules Maigret|Maigret","Brother Cadfael","Judge Dee","Matthew Scudder","Jane Rizzoli"],
+"leviathan":["Lew Archer","Travis McGee","Albert Campion","Roderick Alleyn","Harry Hole","Precinct Captain Hanaud","Mma Ramotswe","Dalgliesh"]}},
+{"id":"p3-reality-tv","text":"Name a reality TV show","category":"culture","tiers":{
+"seafoam":["Survivor","Big Brother","The Bachelor","American Idol","Keeping Up with the Kardashians"],
+"bait":["The Real Housewives|Real Housewives","Love Island","The Voice","Jersey Shore"],
+"shoal":["Dancing with the Stars","The Amazing Race","Top Chef","Naked and Afraid","Project Runway","The Bachelorette","Shark Tank","Love Is Blind","Queer Eye","RuPaul's Drag Race","Duck Dynasty","Storage Wars","Hell's Kitchen","MasterChef","The Apprentice","America's Got Talent","The Challenge","The Real World"],
+"rare":["Teen Mom","Selling Sunset","Below Deck","Fixer Upper","Pawn Stars","Deadliest Catch","The Great British Bake Off|Bake Off","Vanderpump Rules","Wife Swap","The Osbournes","Laguna Beach","The Hills","America's Next Top Model","Kitchen Nightmares","Dance Moms","90 Day Fiance"],
+"deep":["Too Hot to Handle","Alone","Nailed It","Bridezillas","Cheaters","Intervention","Hoarders","Undercover Boss","The Biggest Loser","Punk'd","Flavor of Love","Joe Millionaire","Rock of Love","My Super Sweet 16","Road Rules","Beauty and the Geek"],
+"leviathan":["Terrace House","Paradise Hotel","Parking Wars","Man vs. Wild","Trading Spouses","Temptation Island","The Surreal Life","Newlyweds"]}},
+{"id":"p3-animated-series","text":"Name an animated TV series","category":"culture","tiers":{
+"seafoam":["The Simpsons","Family Guy","South Park","SpongeBob SquarePants|SpongeBob","Rick and Morty"],
+"bait":["Futurama","Bob's Burgers","Looney Tunes","Scooby-Doo","Bluey"],
+"shoal":["Adventure Time","Avatar: The Last Airbender|Avatar","Gravity Falls","Hey Arnold!","Rugrats","Pokemon|Pokémon","Dragon Ball Z","King of the Hill","American Dad","Archer","Peppa Pig","Teen Titans","Phineas and Ferb","Steven Universe","The Flintstones","The Jetsons"],
+"rare":["Daria","Beavis and Butt-Head","Ren & Stimpy|The Ren & Stimpy Show","Dexter's Laboratory","The Powerpuff Girls","Johnny Bravo","Courage the Cowardly Dog","Ed, Edd n Eddy","Arthur","Recess","Doug","The Fairly OddParents","Danny Phantom","Invader Zim","Samurai Jack","Kim Possible","Gargoyles","DuckTales","Animaniacs"],
+"deep":["Batman: The Animated Series","The Boondocks","Regular Show","Over the Garden Wall","BoJack Horseman","Big Mouth","Hilda","She-Ra","Voltron","Rocko's Modern Life","CatDog","Aaahh!!! Real Monsters","Clarence","We Bare Bears","The Owl House","Amphibia"],
+"leviathan":["Primal","Arcane","Kipo","Star vs. the Forces of Evil","Tuca & Bertie","Infinity Train","Wander Over Yonder","Harvey Beaks"]}},
+{"id":"p3-horror-movie","text":"Name a horror movie","category":"culture","tiers":{
+"seafoam":["Halloween","Scream","The Exorcist","Psycho","Friday the 13th"],
+"bait":["A Nightmare on Elm Street","Saw","The Shining","Get Out","It"],
+"shoal":["Hereditary","The Conjuring","The Texas Chain Saw Massacre","The Ring","Insidious","Paranormal Activity","Child's Play","Poltergeist","The Omen","Alien","Candyman","Midsommar","A Quiet Place"],
+"rare":["Sinister","The Blair Witch Project","Carrie","Annabelle","The Babadook","It Follows","Us","Smile","Barbarian","The Thing","The Fly","The Cabin in the Woods","The Evil Dead","Hellraiser","Rosemary's Baby"],
+"deep":["Suspiria","Night of the Living Dead","Dawn of the Dead","Final Destination","Hostel","The Descent","The Grudge","Pet Sematary","The Visit","Terrifier","Talk to Me","Pearl","The Witch","Train to Busan","Gremlins","Orphan","Drag Me to Hell","Black Christmas"],
+"leviathan":["Creepshow","Cujo","Tremors","The Haunting","Wrong Turn","Martyrs","Audition","Session 9"]}},
+{"id":"p3-famous-chris","text":"Name a famous Chris","category":"culture","tiers":{
+"seafoam":["Chris Pratt","Chris Hemsworth","Chris Evans","Chris Rock","Chris Brown"],
+"bait":["Chris Pine","Chris Martin","Chris Tucker","Chris Farley"],
+"shoal":["Chris Cornell","Chris Paul","Chris Christie","Chris Cuomo","Chris Isaak","Chris Stapleton","Chris Evert","Chris Hansen","Chris Kattan","Chris O'Donnell"],
+"rare":["Chris Noth","Chris Webber","Chris Harrison","Chris Pontius","Chris Daughtry","Chris Matthews","Chris Wallace","Chris Carter","Chris Kyle","Chris Bosh","Chris Sale","Chris Hardwick","Chris Cooper","Chris Messina"],
+"deep":["Chris Jericho","Chris Benoit","Chris Rea","Chris de Burgh","Chris Young","Chris Elliott","Chris Parnell","Chris D'Elia","Chris Moneymaker","Chris Froome","Chris Hoy","Chris Boardman","Chris Chelios","Chris Pronger","Chris Mullin"],
+"leviathan":["Chris Columbus","Chris Kirkpatrick","Chris Eubank","Chris Gethard","Chris Distefano","Chris Lowell","Chris Sullivan","Chris Gardner"]}},
+{"id":"p3-secret-identity","text":"Name a superhero's secret identity","category":"culture","tiers":{
+"seafoam":["Clark Kent|Kal-El","Bruce Wayne","Peter Parker","Tony Stark","Diana Prince"],
+"bait":["Barry Allen","Steve Rogers","Bruce Banner","Matt Murdock","Selina Kyle"],
+"shoal":["Hal Jordan","Oliver Queen","Wade Wilson","Kara Danvers","Miles Morales","Natasha Romanoff","Clint Barton","Scott Lang","T'Challa","Stephen Strange","Carol Danvers","Wally West","Dick Grayson"],
+"rare":["Billy Batson","Arthur Curry","Victor Stone","Barbara Gordon","Jessica Jones","Kamala Khan","Reed Richards","Sue Storm","Johnny Storm","Ben Grimm","Charles Xavier","Jean Grey","Scott Summers","Ororo Munroe"],
+"deep":["Hank McCoy","Kitty Pryde","Remy LeBeau","Bobby Drake","Sam Wilson","Bucky Barnes","Wanda Maximoff","Peter Quill","Danny Rand","Britt Reid","Don Diego de la Vega","Eddie Brock","Dan Dreiberg","Walter Kovacs"],
+"leviathan":["Jay Garrick","Ted Kord","Kent Nelson","Garfield Logan","Alan Scott","Jaime Reyes","Ryan Choi","Michael Holt"]}}
+]
