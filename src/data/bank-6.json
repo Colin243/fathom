@@ -1,0 +1,538 @@
+[
+ {
+  "id": "an-01",
+  "text": "Name a breed of dog",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Labrador|Labrador Retriever|Lab",
+    "Golden Retriever|Golden",
+    "German Shepherd",
+    "Poodle",
+    "Bulldog",
+    "Beagle"
+   ],
+   "bait": [
+    "Chihuahua",
+    "Dachshund|Wiener Dog",
+    "Husky|Siberian Husky",
+    "Pug"
+   ],
+   "shoal": [
+    "Rottweiler",
+    "Boxer",
+    "Corgi|Pembroke Welsh Corgi",
+    "Great Dane",
+    "Doberman|Doberman Pinscher",
+    "Shih Tzu",
+    "Pomeranian",
+    "Dalmatian",
+    "Yorkshire Terrier|Yorkie",
+    "Border Collie"
+   ],
+   "rare": [
+    "Bernese Mountain Dog",
+    "Saint Bernard",
+    "Akita",
+    "Basset Hound",
+    "Bloodhound",
+    "Greyhound",
+    "Whippet",
+    "Samoyed",
+    "Malamute|Alaskan Malamute",
+    "Cocker Spaniel",
+    "Schnauzer",
+    "Maltese",
+    "Papillon",
+    "Weimaraner"
+   ],
+   "deep": [
+    "Vizsla",
+    "Rhodesian Ridgeback",
+    "Basenji",
+    "Newfoundland",
+    "Pointer",
+    "Irish Setter|Setter",
+    "Airedale Terrier",
+    "Bichon Frise",
+    "Shiba Inu",
+    "Chow Chow",
+    "Shar-Pei",
+    "Bull Terrier",
+    "Mastiff"
+   ],
+   "leviathan": [
+    "Otterhound",
+    "Xoloitzcuintli",
+    "Lagotto Romagnolo",
+    "Azawakh",
+    "Norwegian Lundehund",
+    "Kooikerhondje",
+    "Pumi",
+    "Sloughi"
+   ]
+  }
+ },
+ {
+  "id": "an-02",
+  "text": "Name a type of shark",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Great White|Great White Shark",
+    "Hammerhead|Hammerhead Shark",
+    "Tiger Shark|Tiger",
+    "Bull Shark|Bull"
+   ],
+   "bait": [
+    "Whale Shark",
+    "Mako|Mako Shark",
+    "Nurse Shark",
+    "Megalodon"
+   ],
+   "shoal": [
+    "Blacktip Reef Shark|Blacktip",
+    "Lemon Shark",
+    "Thresher Shark|Thresher",
+    "Basking Shark",
+    "Goblin Shark",
+    "Blue Shark"
+   ],
+   "rare": [
+    "Reef Shark",
+    "Greenland Shark",
+    "Cookiecutter Shark",
+    "Leopard Shark",
+    "Wobbegong",
+    "Angel Shark",
+    "Sand Tiger Shark|Sand Shark",
+    "Silky Shark",
+    "Dusky Shark",
+    "Oceanic Whitetip"
+   ],
+   "deep": [
+    "Frilled Shark",
+    "Zebra Shark",
+    "Bamboo Shark",
+    "Epaulette Shark",
+    "Port Jackson Shark",
+    "Spiny Dogfish|Dogfish",
+    "Sixgill Shark",
+    "Porbeagle",
+    "Salmon Shark",
+    "Megamouth Shark|Megamouth",
+    "Horn Shark"
+   ],
+   "leviathan": [
+    "Kitefin Shark",
+    "Pygmy Shark",
+    "Lantern Shark",
+    "Catshark|Cat Shark",
+    "Carpet Shark",
+    "Sleeper Shark",
+    "Sawshark",
+    "Whitetip Reef Shark|Whitetip",
+    "Smoothhound",
+    "Cow Shark"
+   ]
+  }
+ },
+ {
+  "id": "an-03",
+  "text": "Name a type of snake",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Cobra",
+    "Python",
+    "Rattlesnake",
+    "Anaconda",
+    "Boa Constrictor|Boa"
+   ],
+   "bait": [
+    "King Cobra",
+    "Garter Snake",
+    "Viper",
+    "Copperhead"
+   ],
+   "shoal": [
+    "Black Mamba",
+    "Coral Snake",
+    "Cottonmouth|Water Moccasin",
+    "Corn Snake",
+    "Kingsnake|King Snake",
+    "Milk Snake",
+    "Ball Python"
+   ],
+   "rare": [
+    "Taipan",
+    "Bushmaster",
+    "Sea Snake",
+    "Rat Snake",
+    "Gopher Snake",
+    "Green Tree Python",
+    "Hognose Snake",
+    "Reticulated Python",
+    "Puff Adder",
+    "Gaboon Viper",
+    "Sidewinder",
+    "Boomslang"
+   ],
+   "deep": [
+    "Fer-de-Lance",
+    "Krait",
+    "Green Mamba",
+    "Rinkhals",
+    "Tiger Snake",
+    "Death Adder",
+    "Brown Snake",
+    "Racer",
+    "Whip Snake",
+    "Vine Snake",
+    "Indigo Snake",
+    "Asp"
+   ],
+   "leviathan": [
+    "Mulga Snake",
+    "Tentacled Snake",
+    "Carpet Viper",
+    "Saw-scaled Viper",
+    "Twig Snake",
+    "Blind Snake"
+   ]
+  }
+ },
+ {
+  "id": "an-04",
+  "text": "Name an insect",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Ant",
+    "Bee",
+    "Butterfly",
+    "Fly",
+    "Mosquito",
+    "Beetle"
+   ],
+   "bait": [
+    "Ladybug|Ladybird",
+    "Dragonfly",
+    "Grasshopper",
+    "Cockroach|Roach"
+   ],
+   "shoal": [
+    "Wasp",
+    "Moth",
+    "Cricket",
+    "Firefly|Lightning Bug",
+    "Praying Mantis|Mantis",
+    "Termite",
+    "Flea",
+    "Cicada"
+   ],
+   "rare": [
+    "Aphid",
+    "Earwig",
+    "Locust",
+    "Stick Insect|Walking Stick",
+    "Hornet",
+    "Bumblebee",
+    "Louse",
+    "Katydid",
+    "Mayfly",
+    "Lacewing",
+    "Silverfish",
+    "Weevil"
+   ],
+   "deep": [
+    "Cranefly",
+    "Damselfly",
+    "Thrips",
+    "Leafhopper",
+    "Stonefly",
+    "Caddisfly",
+    "Cuckoo Wasp",
+    "Dung Beetle",
+    "Water Strider",
+    "Antlion",
+    "Scarab",
+    "Click Beetle"
+   ],
+   "leviathan": [
+    "Webspinner",
+    "Strepsipteran",
+    "Springtail",
+    "Snakefly",
+    "Scorpionfly",
+    "Sawfly"
+   ]
+  }
+ },
+ {
+  "id": "an-05",
+  "text": "Name a bird of prey",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Eagle",
+    "Hawk",
+    "Falcon",
+    "Owl",
+    "Vulture"
+   ],
+   "bait": [
+    "Bald Eagle",
+    "Osprey",
+    "Kite"
+   ],
+   "shoal": [
+    "Peregrine Falcon|Peregrine",
+    "Red-tailed Hawk",
+    "Golden Eagle",
+    "Condor",
+    "Kestrel",
+    "Harrier",
+    "Buzzard"
+   ],
+   "rare": [
+    "Barn Owl",
+    "Snowy Owl",
+    "Great Horned Owl",
+    "Gyrfalcon",
+    "Merlin",
+    "Goshawk",
+    "Sparrowhawk",
+    "Harpy Eagle",
+    "Secretary Bird",
+    "Turkey Vulture",
+    "California Condor",
+    "Caracara"
+   ],
+   "deep": [
+    "Hobby",
+    "Lammergeier|Bearded Vulture",
+    "Andean Condor",
+    "Honey Buzzard",
+    "Steller's Sea Eagle",
+    "Lanner Falcon",
+    "Saker Falcon",
+    "Black Kite",
+    "Red Kite",
+    "Philippine Eagle",
+    "Short-eared Owl",
+    "Eurasian Eagle-Owl|Eagle Owl"
+   ],
+   "leviathan": [
+    "Bateleur",
+    "Lappet-faced Vulture",
+    "Crowned Eagle",
+    "Aplomado Falcon",
+    "Pallas's Fish Eagle",
+    "Elf Owl"
+   ]
+  }
+ },
+ {
+  "id": "an-06",
+  "text": "Name a monkey or ape",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Chimpanzee|Chimp",
+    "Gorilla",
+    "Orangutan",
+    "Baboon",
+    "Capuchin"
+   ],
+   "bait": [
+    "Bonobo",
+    "Gibbon",
+    "Macaque",
+    "Spider Monkey"
+   ],
+   "shoal": [
+    "Howler Monkey",
+    "Mandrill",
+    "Marmoset",
+    "Squirrel Monkey",
+    "Proboscis Monkey",
+    "Colobus",
+    "Tamarin",
+    "Vervet",
+    "Siamang"
+   ],
+   "rare": [
+    "Rhesus Monkey|Rhesus",
+    "Japanese Macaque|Snow Monkey",
+    "Barbary Macaque|Barbary Ape",
+    "Langur",
+    "Drill",
+    "Gelada",
+    "Titi",
+    "Uakari",
+    "Saki",
+    "Owl Monkey|Night Monkey",
+    "Golden Lion Tamarin",
+    "Emperor Tamarin",
+    "Patas Monkey"
+   ],
+   "deep": [
+    "Guenon",
+    "Mangabey",
+    "Mona Monkey",
+    "Diana Monkey",
+    "Snub-nosed Monkey",
+    "Douc",
+    "Woolly Monkey",
+    "Muriqui",
+    "Pygmy Marmoset",
+    "Red Howler",
+    "De Brazza's Monkey",
+    "Hamadryas Baboon"
+   ],
+   "leviathan": [
+    "Kipunji",
+    "Talapoin",
+    "Allen's Swamp Monkey",
+    "Banded Leaf Monkey",
+    "Pig-tailed Macaque",
+    "Sykes' Monkey"
+   ]
+  }
+ },
+ {
+  "id": "an-07",
+  "text": "Name a baby animal",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Puppy",
+    "Kitten",
+    "Cub",
+    "Calf",
+    "Chick",
+    "Lamb"
+   ],
+   "bait": [
+    "Foal",
+    "Piglet",
+    "Fawn",
+    "Duckling"
+   ],
+   "shoal": [
+    "Joey",
+    "Kid",
+    "Cygnet",
+    "Gosling",
+    "Tadpole",
+    "Fry",
+    "Leveret",
+    "Pup",
+    "Hatchling"
+   ],
+   "rare": [
+    "Owlet",
+    "Eaglet",
+    "Squab",
+    "Poult",
+    "Kit",
+    "Colt",
+    "Filly",
+    "Fingerling",
+    "Elver",
+    "Cria",
+    "Nymph",
+    "Larva"
+   ],
+   "deep": [
+    "Spiderling",
+    "Smolt",
+    "Parr",
+    "Alevin",
+    "Eyas",
+    "Fledgling",
+    "Weaner",
+    "Heifer",
+    "Yearling",
+    "Shoat",
+    "Squeaker",
+    "Spat"
+   ],
+   "leviathan": [
+    "Peachick",
+    "Keet",
+    "Whelp",
+    "Hoglet",
+    "Pinkie"
+   ]
+  }
+ },
+ {
+  "id": "an-08",
+  "text": "Name an extinct animal",
+  "category": "nature",
+  "tiers": {
+   "seafoam": [
+    "Dodo",
+    "Woolly Mammoth|Mammoth",
+    "Saber-toothed Tiger|Sabertooth|Smilodon",
+    "Passenger Pigeon",
+    "Tasmanian Tiger|Thylacine"
+   ],
+   "bait": [
+    "Megalodon",
+    "Great Auk",
+    "Quagga",
+    "Steller's Sea Cow"
+   ],
+   "shoal": [
+    "Mastodon",
+    "Giant Ground Sloth|Megatherium",
+    "Moa",
+    "Irish Elk",
+    "Aurochs",
+    "Woolly Rhinoceros|Woolly Rhino",
+    "Elephant Bird",
+    "Cave Bear",
+    "Carolina Parakeet"
+   ],
+   "rare": [
+    "Haast's Eagle",
+    "Heath Hen",
+    "Labrador Duck",
+    "Baiji",
+    "Pyrenean Ibex",
+    "Western Black Rhino",
+    "Golden Toad",
+    "Caribbean Monk Seal",
+    "Bluebuck",
+    "Atlas Bear",
+    "Dire Wolf",
+    "Glyptodon"
+   ],
+   "deep": [
+    "Thylacoleo|Marsupial Lion",
+    "Diprotodon",
+    "Short-faced Bear",
+    "American Lion",
+    "Toxodon",
+    "Macrauchenia",
+    "Giant Beaver",
+    "Huia",
+    "Bali Tiger",
+    "Javan Tiger",
+    "Caspian Tiger",
+    "Falkland Islands Wolf"
+   ],
+   "leviathan": [
+    "Stephens Island Wren",
+    "Rodrigues Solitaire",
+    "Bonin Grosbeak",
+    "Jamaican Rice Rat",
+    "Pinta Island Tortoise",
+    "Xerces Blue"
+   ]
+  }
+ }
+]
