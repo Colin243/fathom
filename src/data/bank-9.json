@@ -1,0 +1,58 @@
+[
+{"id":"f2-01","text":"Name a pizza topping","category":"food","tiers":{
+"seafoam":["Pepperoni","Mushrooms","Sausage","Onions","Extra cheese","Green peppers"],
+"bait":["Pineapple","Bacon","Olives","Ham"],
+"shoal":["Jalapeños","Anchovies","Spinach","Tomatoes","Basil","Chicken","Garlic","Ground beef","Banana peppers","Meatballs"],
+"rare":["Artichoke hearts","Prosciutto","Arugula","Ricotta","Salami","Roasted red peppers","Eggplant","Broccoli","Pesto","Buffalo chicken","Sun-dried tomatoes","Feta"],
+"deep":["Capers","Clams","Nduja","Pancetta","Fresh mozzarella","Gorgonzola","Zucchini","Corn","Hot honey","Truffle oil","Goat cheese","Figs","Caramelized onions","Pickled peppers","Egg","Calabrian chili"],
+"leviathan":["Soppressata","Guanciale","Speck","Bottarga","Burrata","Lardo","Cipollini onions","Broccoli rabe","Mortadella","Pistachio pesto"]}},
+{"id":"f2-02","text":"Name a type of sandwich","category":"food","tiers":{
+"seafoam":["BLT","Grilled cheese","Club sandwich","Peanut butter and jelly","Ham and cheese"],
+"bait":["Reuben","Turkey sandwich","Tuna melt","Sub"],
+"shoal":["Philly cheesesteak","Hoagie","Panini","Egg salad sandwich","Chicken salad sandwich","Cuban sandwich","French dip","Sloppy joe","Patty melt","Monte Cristo"],
+"rare":["Banh mi","Muffuletta","Po' boy","Croque monsieur","Gyro","Falafel pita","Tuna salad sandwich","Meatball sub","Lobster roll","Pulled pork sandwich","Caprese sandwich","Cucumber sandwich"],
+"deep":["Italian beef","Hot brown","Pan bagnat","Medianoche","Bocadillo","Chivito","Katsu sando","Fluffernutter","Croque madame","Zapiekanka","Torta","Dagwood","Bauru","Pastrami on rye","Open-faced sandwich","Smørrebrød"],
+"leviathan":["Bosna","Doner kebab","Tramezzino","Gatsby","Vada pav","Jibarito","Elvis sandwich","Pambazo","Francesinha","Loco moco"]}},
+{"id":"f2-03","text":"Name a Chinese dish","category":"food","tiers":{
+"seafoam":["Fried rice","Lo mein","Egg rolls","General Tso's chicken","Orange chicken","Kung pao chicken"],
+"bait":["Dumplings","Wonton soup","Sweet and sour pork","Chow mein"],
+"shoal":["Peking duck","Hot and sour soup","Beef and broccoli","Dim sum","Egg drop soup","Sesame chicken","Mongolian beef","Moo shu pork","Crab rangoon","Spring rolls"],
+"rare":["Mapo tofu","Char siu","Xiaolongbao","Hot pot","Congee","Twice-cooked pork","Dan dan noodles","Scallion pancakes","Chow fun","Walnut shrimp","Egg foo young","Siu mai","Har gow","Salt and pepper shrimp","Lion's head meatballs"],
+"deep":["Dongpo pork","Zhajiangmian","Hainanese chicken rice","Chicken feet","Century egg","Cheung fun","Lap cheong fried rice","Fish-fragrant eggplant","Red braised pork belly","Lamb skewers","Steamed whole fish","Lo mai gai","Bao","Wonton noodles","Beggar's chicken","Tea-smoked duck"],
+"leviathan":["Buddha jumps over the wall","Ants climbing a tree","Drunken chicken","Stinky tofu","Liangpi","Yangzhou fried rice","Dry-fried green beans","Sizzling rice soup","Mooncake","Cross-bridge noodles","Longjing shrimp"]}},
+{"id":"f2-04","text":"Name a Thai dish","category":"food","tiers":{
+"seafoam":["Pad thai","Green curry","Tom yum","Red curry","Thai iced tea"],
+"bait":["Pad see ew","Tom kha gai","Mango sticky rice","Satay"],
+"shoal":["Massaman curry","Panang curry","Papaya salad","Drunken noodles","Spring rolls","Larb","Thai fried rice","Yellow curry","Basil chicken","Summer rolls"],
+"rare":["Pad kra pao","Khao soi","Boat noodles","Pineapple fried rice","Tod mun pla","Gai yang","Som tam","Yum woon sen","Moo ping","Khao man gai","Pad prik king","Jungle curry","Sai oua","Thai basil eggplant"],
+"deep":["Nam tok","Gaeng som","Khanom jeen","Pla rad prik","Hoy tod","Kanom krok","Mee krob","Khao niao mamuang","Gaeng hung lay","Nam prik","Tub tim krob","Pad pak boong","Yum nua","Roti with banana","Moo yang","Kai jeow"],
+"leviathan":["Tom saep","Laab ped","Khao kluk kapi","Pla pao","Gaeng tai pla","Naem sod","Lod chong","Kuay jap","Gaeng pa","Hor mok","Miang kham"]}},
+{"id":"f2-05","text":"Name a French dish","category":"food","tiers":{
+"seafoam":["Croissant","Crepes","French onion soup","Escargot","Ratatouille","Quiche"],
+"bait":["Coq au vin","Crème brûlée","Baguette","French toast"],
+"shoal":["Beef bourguignon","Cassoulet","Bouillabaisse","Steak frites","Macarons","Croque monsieur","Salade niçoise","Foie gras","Tarte tatin","Duck confit"],
+"rare":["Gratin dauphinois","Pot-au-feu","Moules marinières","Soufflé","Vichyssoise","Tartiflette","Quiche Lorraine","Profiteroles","Sole meunière","Blanquette de veau","Pissaladière","Choucroute","Cheese fondue","Raclette","Brandade","Éclair"],
+"deep":["Pain au chocolat","Clafoutis","Tarte flambée","Rillettes","Chateaubriand","Gougères","Aligot","Poulet rôti","Canelé","Madeleines","Mille-feuille","Navarin","Andouillette","Boudin noir","Œufs mayonnaise","Salade lyonnaise"],
+"leviathan":["Pavé de rumsteck","Tête de veau","Pot-au-feu de canard","Cervelle de canut","Ficelle picarde","Tripes à la mode de Caen","Matelote","Gratinée des Halles","Gigot d'agneau","Paris-Brest","Kouign-amann"]}},
+{"id":"f2-06","text":"Name a dessert","category":"food","tiers":{
+"seafoam":["Cake","Ice cream","Pie","Brownies","Cookies","Cheesecake"],
+"bait":["Tiramisu","Cupcakes","Pudding","Apple pie"],
+"shoal":["Flan","Cannoli","Churros","Baklava","Crème brûlée","Cobbler","Donuts","Banana split","Mousse","Panna cotta","Key lime pie","Sundae"],
+"rare":["Pavlova","Trifle","Gelato","Sorbet","Bread pudding","Tres leches cake","Profiteroles","Éclairs","Macarons","Rice pudding","Baked Alaska","Cheesecake brownie","Strudel","Shortcake","Bananas Foster","Cream puff"],
+"deep":["Tarte tatin","Semifreddo","Zabaglione","Kheer","Mochi","Gulab jamun","Syllabub","Cranachan","Eton mess","Clafoutis","Sticky toffee pudding","Spotted dick","Knafeh","Halva","Dulce de leche cake","Affogato"],
+"leviathan":["Fool","Queen of puddings","Sachertorte","Kransekake","Bakewell tart","Lamington","Pastel de nata","Rødgrød med fløde","Tembleque","Kolaczki","Dobos torte"]}},
+{"id":"f2-07","text":"Name a type of seafood","category":"food","tiers":{
+"seafoam":["Shrimp","Salmon","Lobster","Crab","Tuna","Cod"],
+"bait":["Oysters","Clams","Scallops","Tilapia"],
+"shoal":["Halibut","Mussels","Swordfish","Squid","Catfish","Trout","Mahi-mahi","Sardines","Crawfish","Anchovies","Octopus","Haddock"],
+"rare":["Sea bass","Snapper","Flounder","Sole","Mackerel","Calamari","Abalone","Herring","Eel","Uni","Grouper","Monkfish","Prawns","Caviar","Whelk","Sea urchin"],
+"deep":["Branzino","Pompano","Barramundi","Skate","Cuttlefish","Geoduck","Periwinkle","Razor clams","Turbot","Wahoo","Bluefish","Shad","Hake","John Dory","Cockles","Langoustine"],
+"leviathan":["Sablefish","Opah","Lingcod","Pollock","Pacific saury","Cobia","Conch","Rockfish","Hamachi","Tilefish","Whitebait"]}},
+{"id":"f2-08","text":"Name a condiment or sauce","category":"food","tiers":{
+"seafoam":["Ketchup","Mustard","Mayonnaise","Ranch","Barbecue sauce","Hot sauce"],
+"bait":["Soy sauce","Salsa","Relish","Tartar sauce"],
+"shoal":["Sriracha","Worcestershire sauce","Honey mustard","Tabasco","Hollandaise","Pesto","Teriyaki sauce","Vinaigrette","Marinara","Alfredo","Buffalo sauce","Tzatziki"],
+"rare":["Aioli","Chimichurri","Hoisin sauce","Oyster sauce","Fish sauce","Béarnaise","Horseradish","Sweet chili sauce","Gravy","Cranberry sauce","Ponzu","A1 steak sauce","Wasabi","Béchamel","Chutney","Tahini"],
+"deep":["Harissa","Gochujang","Sambal","Mole","Romesco","Remoulade","Duke's mayo","Salsa verde","Peri-peri","Piri piri","Hummus","XO sauce","Ranch dressing","Mignonette","Cocktail sauce","Black bean sauce"],
+"leviathan":["Gribiche","Sriracha mayo","Cumberland sauce","Nuoc cham","Amba","Zhug","Ajvar","Bagna cauda","Gentleman's relish","Sauce Robert","Mornay","Tkemali"]}}
+]

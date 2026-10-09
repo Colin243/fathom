@@ -1,0 +1,58 @@
+[
+{"id":"c2-01","text":"Name an NFL or MLB team (nickname only)","category":"sports","tiers":{
+"seafoam":["Cowboys","Yankees","Patriots","Packers","Dodgers","Red Sox"],
+"bait":["Giants","Eagles","Steelers","Cubs"],
+"shoal":["Bears","Chiefs","Raiders","Broncos","Seahawks","Dolphins","Mets","Braves","Cardinals","Jets","Lions","Rams","49ers","Saints","Vikings","Ravens","Browns"],
+"rare":["Bills","Bengals","Colts","Chargers","Texans","Titans","Falcons","Panthers","Jaguars","Buccaneers","Phillies","Astros","Tigers","Padres","Angels","Orioles"],
+"deep":["Commanders","Diamondbacks","Marlins","Brewers","Royals","Twins","Reds","Pirates","White Sox","Mariners","Rangers","Blue Jays"],
+"leviathan":["Guardians","Athletics","Rays","Nationals","Rockies"]}},
+{"id":"c2-02","text":"Name a Taylor Swift song","category":"culture","tiers":{
+"seafoam":["Shake It Off","Love Story","Blank Space","Anti-Hero"],
+"bait":["You Belong with Me","Bad Blood","Style","Cruel Summer"],
+"shoal":["Willow","Cardigan","Lover","Fifteen","22","Mean","Our Song","Tim McGraw","Teardrops on My Guitar","Red","We Are Never Ever Getting Back Together","I Knew You Were Trouble","Look What You Made Me Do"],
+"rare":["Karma","Lavender Haze","Bejeweled","August","Betty","Exile","Delicate","Enchanted","Mine","Sparks Fly","Begin Again","Wildest Dreams","Out of the Woods","Gorgeous","Fortnight","The Man"],
+"deep":["Dear John","Mirrorball","Invisible String","Champagne Problems","Tolerate It","Maroon","Mastermind","Midnight Rain","Paper Rings","Cornelia Street","False God","Death by a Thousand Cuts","Daylight"],
+"leviathan":["Ronan","Marjorie","Epiphany","Peace","Dorothea","Coney Island","Clean","Long Live","Treacherous","Holy Ground"]}},
+{"id":"c2-03","text":"Name a character from the US version of The Office","category":"culture","tiers":{
+"seafoam":["Michael Scott|Michael","Dwight Schrute|Dwight","Jim Halpert|Jim","Pam Beesly|Pam"],
+"bait":["Andy Bernard|Andy","Angela Martin|Angela","Kevin Malone|Kevin","Stanley Hudson|Stanley","Oscar Martinez|Oscar"],
+"shoal":["Ryan Howard|Ryan","Creed Bratton|Creed","Toby Flenderson|Toby","Phyllis Vance|Phyllis","Meredith Palmer|Meredith","Kelly Kapoor|Kelly","Darryl Philbin|Darryl","Erin Hannon|Erin","Jan Levinson|Jan","David Wallace","Gabe Lewis|Gabe","Holly Flax|Holly","Robert California"],
+"rare":["Roy Anderson|Roy","Todd Packer","Nellie Bertram|Nellie","Karen Filippelli|Karen","Mose Schrute|Mose","Jo Bennett","Deangelo Vickers|Deangelo","Clark Green","Pete Miller","Cathy Simms","Bob Vance","Charles Miner","Hank Tate","Madge Madsen","Val Johnson"],
+"deep":["Lonny Collins","Hide","Glenn Sturgis","Gil","Devon White","Hunter","Jessica","Danny Cordray","Walter Bernard","Ed Truck","Nate","Esther","Billy Merchant","Brian","Packer's Wife"],
+"leviathan":["Rolf","Dan Gore","Tom Peterson","Matt","Jeff Duck","Jake Palmer","Cece Halpert","Philip"]}},
+{"id":"c2-04","text":"Name a character from a Shakespeare play","category":"culture","tiers":{
+"seafoam":["Romeo","Juliet","Hamlet","Macbeth"],
+"bait":["Othello","Iago","Puck","Ophelia","Lady Macbeth"],
+"shoal":["King Lear|Lear","Prospero","Portia","Shylock","Cordelia","Oberon","Titania","Falstaff","Brutus","Julius Caesar|Caesar","Mark Antony|Antony","Cleopatra","Desdemona","Banquo","Tybalt","Mercutio","Horatio"],
+"rare":["Bottom","Malvolio","Viola","Rosalind","Beatrice","Benedick","Claudius","Gertrude","Polonius","Laertes","Macduff","Ariel","Caliban","Miranda","Petruchio","Katherina","Orsino","Cassio","Lysander","Hermia","Helena","Demetrius"],
+"deep":["Feste","Touchstone","Jaques","Dogberry","Pericles","Coriolanus","Titus Andronicus|Titus","Timon","Enobarbus","Goneril","Regan","Edmund","Edgar","Kent"],
+"leviathan":["Parolles","Autolycus","Hermione","Leontes","Perdita","Imogen","Cymbeline","Posthumus","Mistress Quickly","Bardolph","Hotspur","Thersites","Cressida","Troilus"]}},
+{"id":"c2-05","text":"Name a Roman god or goddess","category":"culture","tiers":{
+"seafoam":["Jupiter","Mars","Venus","Neptune","Mercury"],
+"bait":["Apollo","Juno","Minerva","Saturn","Pluto","Cupid"],
+"shoal":["Diana","Vulcan","Bacchus","Ceres","Vesta","Janus","Aurora","Fortuna","Hercules","Luna","Sol","Proserpina"],
+"rare":["Faunus","Flora","Pomona","Somnus","Bellona","Victoria","Terra","Tellus","Ops","Liber","Mors","Pax","Nox"],
+"deep":["Silvanus","Vertumnus","Portunus","Quirinus","Lares","Penates","Fides","Spes","Concordia","Juventas","Discordia","Cybele","Mithras","Aesculapius"],
+"leviathan":["Orcus","Dis Pater","Carna","Lucina","Terminus","Consus","Robigus","Volturnus","Furrina"]}},
+{"id":"c2-06","text":"Name a character from The Legend of Zelda series","category":"culture","tiers":{
+"seafoam":["Link","Zelda","Ganon|Ganondorf","Navi"],
+"bait":["Epona","Impa","Midna","Tingle","Sheik"],
+"shoal":["Skull Kid","Saria","Darunia","Ruto","Nabooru","Rauru","Malon","Talon","Fi","Ghirahim","Zant","Happy Mask Salesman","Kaepora Gaebora","Beedle","Daruk","Mipha","Revali","Urbosa","Sidon","Riju"],
+"rare":["Yunobo","Teba","Purah","Robbie","Kass","Hestu","Bolson","King Rhoam","Groose","Tetra","Medli","Makar","Vaati","Agahnim","Linebeck","Ingo","Mido","Fado","Zelda's Father","Skull Kid's Mask","Tulin","Mineru"],
+"deep":["Cremia","Anju","Kafei","Tatl","Tael","Majora","Deku Tree","Great Deku Tree","Koume","Kotake","Twinrova","Phantom Ganon","Ravio","Hilda","Yuga","Oshus","Tingle's Brother","Zelda's Impa","Fierce Deity"],
+"leviathan":["Zephos","Cyclos","Bipin","Blossom","Ezlo","Gaepora","Fray","Mutoh","Ciela","Byrne"]}},
+{"id":"c2-07","text":"Name a Minecraft mob","category":"culture","tiers":{
+"seafoam":["Creeper","Zombie","Skeleton","Enderman"],
+"bait":["Spider","Pig","Cow","Chicken","Villager","Ender Dragon"],
+"shoal":["Sheep","Slime","Ghast","Blaze","Wither","Witch","Iron Golem","Snow Golem","Wolf","Cat","Horse","Donkey","Llama","Parrot","Squid","Bat","Rabbit","Polar Bear","Panda","Fox","Bee"],
+"rare":["Axolotl","Turtle","Dolphin","Cod","Salmon","Guardian","Elder Guardian","Shulker","Phantom","Drowned","Husk","Stray","Pillager","Vindicator","Evoker","Ravager","Piglin","Hoglin","Strider","Mooshroom","Warden","Allay","Goat","Frog"],
+"deep":["Ocelot","Mule","Vex","Zoglin","Zombified Piglin","Magma Cube","Silverfish","Endermite","Cave Spider","Tadpole","Glow Squid","Camel","Sniffer","Tropical Fish","Pufferfish","Zombie Villager","Wandering Trader","Wither Skeleton"],
+"leviathan":["Armadillo","Breeze","Bogged","Creaking","Trader Llama","Skeleton Horse","Zombie Horse","Piglin Brute","Illusioner"]}},
+{"id":"c2-08","text":"Name a video game franchise","category":"culture","tiers":{
+"seafoam":["Call of Duty","Grand Theft Auto","Fortnite","Minecraft","Madden NFL|Madden"],
+"bait":["Halo","FIFA","Sonic the Hedgehog|Sonic","Tetris","Pac-Man","Street Fighter","Mortal Kombat","Resident Evil","Final Fantasy"],
+"shoal":["Assassin's Creed","The Elder Scrolls","Fallout","Overwatch","League of Legends","World of Warcraft","Doom","Gears of War","God of War","Uncharted","The Last of Us","Tomb Raider","Metal Gear Solid","Kingdom Hearts","Dark Souls","Diablo","The Sims","Battlefield","Counter-Strike","Guitar Hero","Angry Birds","Candy Crush","Among Us","Rocket League"],
+"rare":["StarCraft","Civilization","Borderlands","BioShock","Mass Effect","Dragon Age","The Witcher","Cyberpunk 2077","Red Dead Redemption","Crash Bandicoot","Spyro","Persona","Mega Man","Castlevania","Silent Hill","Dead Space","Far Cry","Just Dance","Rock Band","Apex Legends","Destiny","Ratchet & Clank","Tekken","Portal","Half-Life","Left 4 Dead","Team Fortress","Dota","Valorant","Elden Ring","Terraria","Stardew Valley"],
+"deep":["Jak and Daxter","Sly Cooper","Soulcalibur","Dead or Alive","Bayonetta","Devil May Cry","Monster Hunter","Yakuza","Katamari Damacy","Hades","Bloodborne","Sekiro","Hollow Knight","Celeste","Cuphead","Undertale","Rayman"],
+"leviathan":["Shenmue","Xenogears","Panzer Dragoon","Ico","Okami","Ys","Fatal Frame","Parasite Eve"]}}
+]

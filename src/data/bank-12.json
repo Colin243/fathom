@@ -1,0 +1,58 @@
+[
+{"id":"e2-01","text":"Name a type of road vehicle","category":"everyday","tiers":{
+"seafoam":["Car","Truck","Bus","Motorcycle","Bicycle"],
+"bait":["Van","Taxi","Scooter","SUV"],
+"shoal":["Minivan","Limousine","Pickup truck|Pickup","Ambulance","Fire truck","Tractor","Moped","Police car","Garbage truck","RV|Camper","Convertible","Tricycle"],
+"rare":["Hearse","Golf cart","Skateboard","Segway","Unicycle","Rickshaw","Tuk-tuk","Dump truck","Cement mixer","Tow truck","School bus","Food truck"],
+"deep":["Hansom cab","Penny-farthing","Quadricycle","Sidecar","Trolleybus","Jitney","Dune buggy","Hot rod","Flatbed","Street sweeper"],
+"leviathan":["Velomobile","Surrey","Phaeton","Landau","Brougham","Cyclecar"]}},
+{"id":"e2-02","text":"Name a college major","category":"everyday","tiers":{
+"seafoam":["Biology","Psychology","Business","English","Nursing"],
+"bait":["Engineering","Computer science","Math","History"],
+"shoal":["Chemistry","Physics","Economics","Political science","Sociology","Art","Education","Communications","Accounting","Philosophy","Music","Marketing"],
+"rare":["Anthropology","Linguistics","Kinesiology","Geology","Theater","Journalism","Statistics","Neuroscience","Criminology","Architecture","Finance","Religious studies"],
+"deep":["Classics","Astronomy","Oceanography","Forestry","Gerontology","Archaeology","Ethnomusicology","Entomology","Epidemiology","Agronomy"],
+"leviathan":["Paleontology","Cybernetics","Egyptology","Semiotics","Pomology","Chronobiology"]}},
+{"id":"e2-03","text":"Name a hairstyle","category":"everyday","tiers":{
+"seafoam":["Ponytail","Braids","Bun","Buzz cut","Bangs"],
+"bait":["Pigtails","Mohawk","Afro","Bob"],
+"shoal":["Pixie cut","Mullet","Dreadlocks","Crew cut","Cornrows","Perm","Pompadour","Updo","Comb-over","Bald","Layers","Bowl cut"],
+"rare":["French braid","Fade","Undercut","Top knot","Beehive","Flat top","Shag","Man bun","Chignon","Rat tail","Pageboy","Curtains"],
+"deep":["Bouffant","Marcel wave","Pompadour fade","Fishtail braid","Bantu knots","Ducktail","Finger waves","Dutch braid","Victory rolls","Caesar cut"],
+"leviathan":["Pompadour quiff","Conk","Psyche knot","Chonmage","Pin curls","Tonsure"]}},
+{"id":"e2-04","text":"Name a world currency","category":"everyday","tiers":{
+"seafoam":["Dollar","Euro","Pound","Yen","Peso"],
+"bait":["Yuan","Rupee","Franc","Ruble"],
+"shoal":["Krona","Won","Dinar","Lira","Real","Rand","Shekel","Baht","Dirham","Zloty","Krone","Bitcoin"],
+"rare":["Rial","Ringgit","Forint","Koruna","Rupiah","Dong","Kwacha","Naira","Lek","Lev","Leu","Taka"],
+"deep":["Tugrik","Kip","Riel","Quetzal","Lempira","Cordoba","Boliviano","Guarani","Birr","Kuna"],
+"leviathan":["Ngultrum","Pa'anga","Vatu","Loti","Ouguiya","Manat"]}},
+{"id":"e2-05","text":"Name a piece of camping gear","category":"everyday","tiers":{
+"seafoam":["Tent","Sleeping bag","Flashlight","Backpack","Lantern"],
+"bait":["Campfire","Cooler","Compass","Matches"],
+"shoal":["Sleeping pad","Camp stove","Hatchet","Canteen","Headlamp","Bug spray","Pocketknife","Map","Tarp","Hammock","Marshmallows","Rope"],
+"rare":["Mess kit","Water filter","Carabiner","Trekking poles","Folding chair","Bear canister","Firestarter","Thermos","Stakes","Mallet","Camp shovel","Rain fly"],
+"deep":["Footprint","Bivy sack","Dutch oven","Ground cloth","Guy line","Tent pole","Paracord","Sporks","Ferro rod","Percolator"],
+"leviathan":["Bear bell","Trowel","Billycan","Tinder tin","Reflector oven","Tent peg puller"]}},
+{"id":"e2-06","text":"Name a type of jewelry","category":"everyday","tiers":{
+"seafoam":["Ring","Necklace","Bracelet","Earrings","Watch"],
+"bait":["Pendant","Anklet","Brooch","Locket"],
+"shoal":["Charm","Cufflinks","Tiara","Choker","Nose ring","Wedding band","Pearls","Bangle","Tie pin","Crown","Toe ring","Medallion"],
+"rare":["Cameo","Signet ring","Diadem","Armlet","Hairpin","Barrette","Lavalier","Belly ring","Gauges","Class ring","Tennis bracelet","Stud"],
+"deep":["Torc","Fibula","Chatelaine","Riviere","Pomander","Circlet","Sautoir","Girandole","Bandeau","Pectoral"],
+"leviathan":["Parure","Aigrette","Stomacher","Rosary beads","Tikka","Demi-parure"]}},
+{"id":"e2-07","text":"Name a skilled trade or blue-collar job","category":"everyday","tiers":{
+"seafoam":["Plumber","Electrician","Carpenter","Mechanic","Welder"],
+"bait":["Construction worker","Painter","Roofer","Mason"],
+"shoal":["Truck driver","Farmer","Fisherman","Locksmith","Machinist","Pipefitter","Bricklayer","Landscaper","Janitor","Butcher","Baker","Tailor"],
+"rare":["HVAC technician","Glazier","Plasterer","Blacksmith","Stonemason","Millwright","Ironworker","Cabinetmaker","Boilermaker","Crane operator","Tiler","Lineman"],
+"deep":["Cooper","Wheelwright","Farrier","Tinsmith","Rigger","Thatcher","Joiner","Surveyor","Pile driver","Sheet metal worker"],
+"leviathan":["Fletcher","Chandler","Wainwright","Cordwainer","Tool and die maker","Lathe operator"]}},
+{"id":"e2-08","text":"Name a holiday celebrated in the United States","category":"everyday","tiers":{
+"seafoam":["Christmas","Thanksgiving","Halloween","Easter","Fourth of July"],
+"bait":["New Year's Day","Valentine's Day","Memorial Day","Labor Day"],
+"shoal":["Mother's Day","Father's Day","Veterans Day","Presidents' Day","Martin Luther King Jr. Day","Independence Day","St. Patrick's Day","Juneteenth","Hanukkah","Groundhog Day","Columbus Day","New Year's Eve"],
+"rare":["Kwanzaa","Cinco de Mayo","Earth Day","Flag Day","Black Friday","Super Bowl Sunday","Ash Wednesday","Mardi Gras","Passover","Yom Kippur","Diwali","Tax Day"],
+"deep":["Arbor Day","Patriot Day","Pearl Harbor Remembrance Day","Indigenous Peoples' Day","Epiphany","Good Friday","Rosh Hashanah","Ramadan","Eid al-Fitr","Boxing Day"],
+"leviathan":["Purim","Candlemas","Shavuot","Sukkot","Lammas","Twelfth Night"]}}
+]

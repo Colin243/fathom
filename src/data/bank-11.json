@@ -1,0 +1,58 @@
+[
+{"id":"w2-01","text":"Name a flower.","category":"nature","tiers":{
+"seafoam":["Rose","Tulip","Daisy","Sunflower","Lily","Orchid"],
+"bait":["Daffodil","Carnation","Violet","Marigold"],
+"shoal":["Lavender","Poppy","Iris","Pansy","Petunia","Lilac","Peony","Hyacinth"],
+"rare":["Zinnia","Dahlia","Snapdragon","Begonia","Geranium","Chrysanthemum","Hydrangea","Magnolia","Azalea","Camellia"],
+"deep":["Gladiolus","Foxglove","Anemone","Freesia","Ranunculus","Aster","Cosmos","Delphinium","Clematis","Primrose","Buttercup","Hibiscus"],
+"leviathan":["Alstroemeria","Gaillardia","Scabiosa","Campanula","Penstemon","Astilbe","Trillium","Lisianthus"]}},
+{"id":"w2-02","text":"Name a type of tree.","category":"nature","tiers":{
+"seafoam":["Oak","Maple","Pine","Palm","Birch","Willow"],
+"bait":["Redwood","Cedar","Elm","Apple"],
+"shoal":["Cherry","Spruce","Fir","Ash","Walnut","Beech","Poplar","Cypress"],
+"rare":["Hickory","Sycamore","Aspen","Hemlock","Magnolia","Mahogany","Eucalyptus","Dogwood","Juniper","Olive"],
+"deep":["Linden","Hawthorn","Alder","Larch","Chestnut","Mulberry","Sequoia","Baobab","Banyan","Teak","Hornbeam","Yew"],
+"leviathan":["Sassafras","Tamarack","Catalpa","Ginkgo","Basswood","Buckeye","Hackberry","Sweetgum"]}},
+{"id":"w2-03","text":"Name a kind of fish that is not a shark.","category":"nature","tiers":{
+"seafoam":["Salmon","Tuna","Trout","Goldfish","Bass","Cod"],
+"bait":["Catfish","Swordfish","Clownfish","Tilapia"],
+"shoal":["Halibut","Mackerel","Sardine","Herring","Anchovy","Perch","Carp","Eel"],
+"rare":["Snapper","Flounder","Grouper","Pike","Marlin","Mahi-mahi","Sole","Haddock","Barracuda","Guppy"],
+"deep":["Walleye","Bluegill","Sturgeon","Piranha","Pollock","Barramundi","Tarpon","Angelfish","Seahorse","Bonito","Pufferfish","Pompano"],
+"leviathan":["Coelacanth","Wahoo","Opah","Lamprey","Sauger","Burbot","Lingcod","Cobia"]}},
+{"id":"w2-04","text":"Name a breed of horse.","category":"nature","tiers":{
+"seafoam":["Arabian","Thoroughbred","Clydesdale","Mustang","Shetland Pony","Appaloosa"],
+"bait":["Quarter Horse","Percheron","Lipizzaner","Friesian"],
+"shoal":["Palomino","Morgan","Icelandic","Shire","Paint","Andalusian","Pinto","Tennessee Walking Horse"],
+"rare":["Belgian","Hanoverian","Welsh Pony","Standardbred","Haflinger","Fjord","Connemara","Akhal-Teke","Suffolk Punch","Missouri Fox Trotter"],
+"deep":["Trakehner","Oldenburg","Dutch Warmblood","Cleveland Bay","Falabella","Marwari","Paso Fino","Przewalski's Horse","Camargue","Hackney","Lusitano","Knabstrupper"],
+"leviathan":["Exmoor","Dartmoor","Gypsy Vanner","Brumby","Criollo","Orlov Trotter","Kladruber","Marsh Tacky"]}},
+{"id":"w2-05","text":"Name a famous mountain.","category":"geography","tiers":{
+"seafoam":["Everest|Mount Everest","K2","Kilimanjaro|Mount Kilimanjaro","Matterhorn","Mont Blanc","Denali"],
+"bait":["Fuji|Mount Fuji","Mount Kenya","Olympus|Mount Olympus","Rainier|Mount Rainier"],
+"shoal":["Kangchenjunga","Elbrus|Mount Elbrus","Aconcagua","Vesuvius|Mount Vesuvius","Etna|Mount Etna","Whitney|Mount Whitney","Shasta|Mount Shasta","Mount Washington"],
+"rare":["Annapurna","Lhotse","Makalu","Eiger","Table Mountain","Mount Sinai","Ararat|Mount Ararat","Kosciuszko|Mount Kosciuszko","Mount Hood","Mount St. Helens"],
+"deep":["Nanga Parbat","Cho Oyu","Dhaulagiri","Manaslu","Mount Cook","Pikes Peak","Mauna Kea","Mount Elbert","Mount Logan","Monte Rosa","Jungfrau","Popocatepetl"],
+"leviathan":["Gasherbrum","Broad Peak","Ojos del Salado","Chimborazo","Puncak Jaya","Vinson Massif","Mount Kinabalu","Cotopaxi"]}},
+{"id":"w2-06","text":"Name an island.","category":"geography","tiers":{
+"seafoam":["Hawaii","Cuba","Iceland","Greenland","Madagascar","Ireland"],
+"bait":["Jamaica","Bali","Tahiti","Manhattan"],
+"shoal":["Sicily","Crete","Puerto Rico","Fiji","Cyprus","Malta","Bermuda","Borneo"],
+"rare":["Corsica","Sri Lanka","Tasmania","Newfoundland","Zanzibar","Santorini","Mykonos","Oahu","Capri","Maui"],
+"deep":["Java","Sumatra","Mallorca","Ibiza","Guam","Barbados","Aruba","Martinique","Rhodes","Lesbos","Sakhalin","Baffin Island"],
+"leviathan":["Svalbard","Tierra del Fuego","Kodiak Island","Vancouver Island","Elba","Gotland","Socotra","Tristan da Cunha"]}},
+{"id":"w2-07","text":"Name a US city.","category":"geography","tiers":{
+"seafoam":["New York|New York City","Los Angeles","Chicago","Houston","Miami","Las Vegas"],
+"bait":["San Francisco","Boston","Seattle","Dallas"],
+"shoal":["Philadelphia","Phoenix","San Diego","Atlanta","Denver","New Orleans","Detroit","Washington|Washington D.C."],
+"rare":["Portland","Austin","Nashville","Minneapolis","Baltimore","Pittsburgh","Cleveland","Orlando","Honolulu","Salt Lake City"],
+"deep":["Memphis","Milwaukee","Tampa","Charlotte","Kansas City","St. Louis","Cincinnati","Omaha","Albuquerque","Tucson","Sacramento","Raleigh"],
+"leviathan":["Boise","Spokane","Tulsa","Fargo","Duluth","Knoxville","Bakersfield","Anchorage"]}},
+{"id":"w2-08","text":"Name a constellation.","category":"science","tiers":{
+"seafoam":["Orion","Big Dipper","Ursa Major","Scorpius|Scorpio","Leo","Cassiopeia"],
+"bait":["Taurus","Gemini","Cancer","Virgo"],
+"shoal":["Aries","Libra","Sagittarius","Capricornus|Capricorn","Aquarius","Pisces","Ursa Minor|Little Dipper","Canis Major"],
+"rare":["Cygnus","Lyra","Andromeda","Pegasus","Perseus","Draco","Hercules","Centaurus","Aquila","Crux|Southern Cross"],
+"deep":["Bootes","Cepheus","Auriga","Corona Borealis","Cetus","Eridanus","Ophiuchus","Delphinus","Canis Minor","Lepus","Hydra","Triangulum"],
+"leviathan":["Sextans","Lacerta","Antlia","Fornax","Pyxis","Caelum","Horologium","Mensa"]}}
+]
